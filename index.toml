@@ -125,11 +125,6 @@ file = "mods/indium-1.0.0.jar"
 hash = "03ac1130b43a2778633f2cc9634dd6c5f83abe3c520464cc40a9cd05fe9261f9"
 
 [[files]]
-file = "mods/inventory-hud-forge.toml"
-hash = "e63d6d04492604090b15c0bf9095f25a8d6cbc2e75eb682a315193ba12c52e9c"
-metafile = true
-
-[[files]]
 file = "mods/item-model-fix.toml"
 hash = "698c5a62a2eac0310b05186da97549233bec8de88850c61d45087d386f34d4ca"
 metafile = true
