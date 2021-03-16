@@ -1,0 +1,14 @@
+name = "Dynamic Sound Filters"
+filename = "DynamicSoundFilters-1.2.0+1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3182/279/DynamicSoundFilters-1.2.0+1.16.5.jar"
+hash-format = "murmur2"
+hash = "2874948609"
+
+[update]
+[update.curseforge]
+file-id = 3182279
+project-id = 392101
+release-channel = "beta"

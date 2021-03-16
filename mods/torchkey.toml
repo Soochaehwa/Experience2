@@ -1,0 +1,13 @@
+name = "Torchkey"
+filename = "torchkey-1.0.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BM97J8u2/versions/1.0.3/torchkey-1.0.3.jar"
+hash-format = "sha512"
+hash = "85394d553155a146324c85224d60aec0b009df523fb154a763474bb4ecbcb31803085a770113fb0f2845ecb80aabb978044aa68ba67230c1974d9b4a29fe8304"
+
+[update]
+[update.modrinth]
+mod-id = "BM97J8u2"
+version = "A1FHVqsK"

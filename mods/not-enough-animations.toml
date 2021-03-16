@@ -1,0 +1,14 @@
+name = "Not Enough Animations (Forge/Fabric)"
+filename = "notenoughanimations-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3187/616/notenoughanimations-1.1.0.jar"
+hash-format = "murmur2"
+hash = "1335923021"
+
+[update]
+[update.curseforge]
+file-id = 3187616
+project-id = 433760
+release-channel = "beta"

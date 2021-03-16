@@ -1,0 +1,14 @@
+name = "Held Item Info"
+filename = "held-item-info-1.1.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3030/317/held-item-info-1.1.3.jar"
+hash-format = "murmur2"
+hash = "1075572705"
+
+[update]
+[update.curseforge]
+file-id = 3030317
+project-id = 365615
+release-channel = "beta"
