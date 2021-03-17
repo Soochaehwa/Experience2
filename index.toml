@@ -195,11 +195,6 @@ hash = "81179fc5374e1649cb8bb169226227bf5564be26b4f40702537d4512467c1ca8"
 metafile = true
 
 [[files]]
-file = "mods/seamless-loading-screen.toml"
-hash = "ce3798ae4c8ba521d9fae239a638a789f2c52da3d9c0d18982679132a86769ec"
-metafile = true
-
-[[files]]
 file = "mods/shulkerboxtooltip.toml"
 hash = "68027a1e55bff56cda351b453bd3a249138fde501b864a54f1c4b7bb8f57078a"
 metafile = true
@@ -236,6 +231,10 @@ metafile = true
 file = "mods/transliterationlib.toml"
 hash = "96fee98887a8f5dda443856e93554d8db7a641e7b7175cda5a7375da0fc9162a"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "c96adf43c64c5c5a989c53a40a7727e62e332b7525c5ee90722a75af90762a0a"
 
 [[files]]
 file = "resourcepacks/Glass+Panes+CTM+Fix+v1.0.zip"
