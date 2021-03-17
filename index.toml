@@ -236,3 +236,19 @@ metafile = true
 file = "mods/transliterationlib.toml"
 hash = "96fee98887a8f5dda443856e93554d8db7a641e7b7175cda5a7375da0fc9162a"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Glass+Panes+CTM+Fix+v1.0.zip"
+hash = "0cb3b267bff747d71acbfa85637f5136840d9afd4d9b71511c36ff878774f354"
+
+[[files]]
+file = "resourcepacks/MC+Connected+CTM+v1.1.3.zip"
+hash = "44b1356cd2e8733ca38be0af8070bab58065ab8807db7e60009fdeb995a155ad"
+
+[[files]]
+file = "resourcepacks/korean_hd_font.zip"
+hash = "23d936954b93e7dbabb4f6000605151ab23972bb01acc3b1956809648029c21f"
+
+[[files]]
+file = "resourcepacks/shaders.zip"
+hash = "4a15adeec3ccddc1cc1778ccff1207e3acfa03f6ae51d7388263aea994713631"
