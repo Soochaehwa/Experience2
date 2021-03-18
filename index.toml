@@ -1,12 +1,24 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/dark-loading-screen.json"
+hash = "a00131902b663cd09751f2ea946f10b0c276254e683647bf177f476461239878"
+
+[[files]]
 file = "config/modmenu.json"
 hash = "ae8b47ab3cda1fb218de53390693729c49409e76b684f398c03007fada12909b"
 
 [[files]]
 file = "config/mousewheelie.hjson"
 hash = "1d58b8d26299afa66855c2e431b102316afc9511ea6e38ab65b953cf0b7babb6"
+
+[[files]]
+file = "config/presencefootsteps/updater.json"
+hash = "a0419028ec0c7a1ce0ffd08dc9153bbe921d1b1c944bc1c778eee6ff5455c510"
+
+[[files]]
+file = "config/presencefootsteps/userconfig.json"
+hash = "bec6305a7ceb57a072382d4c43dc1421f0ab9e063528c8e966450a3fd8164992"
 
 [[files]]
 file = "config/slightguimodifications/config.json5"
@@ -259,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "8bb5ed19fcc961f608babfaa107505b8c9a1c4a428fe7229235b7035aa71b842"
+hash = "a6ee676c5ad5739fe49f46a82508383b663e872299bff7652ab8ae5131aee040"
 
 [[files]]
 file = "resourcepacks/Glass+Panes+CTM+Fix+v1.0.zip"
