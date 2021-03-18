@@ -21,6 +21,10 @@ file = "config/presencefootsteps/userconfig.json"
 hash = "bec6305a7ceb57a072382d4c43dc1421f0ab9e063528c8e966450a3fd8164992"
 
 [[files]]
+file = "config/raisedclouds.json"
+hash = "bde951453b4c9800ea2795175c4171907da4016515c80bbeda2f31bbe26e47eb"
+
+[[files]]
 file = "config/slightguimodifications/config.json5"
 hash = "458692e8413145819c25d116f4a92de3105437beee3853cd2cbdd9e9c5f17b4e"
 
