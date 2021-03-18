@@ -192,6 +192,11 @@ hash = "4613a0b0acda9eedcee0f3c88707b3c354e5dcba4f0b2b993b7bb548db7f28d0"
 metafile = true
 
 [[files]]
+file = "mods/no-fade.toml"
+hash = "9bef846df63021e7f4dafbb9000d1cdd172928d0fe8777b95f436e7a227318e2"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.toml"
 hash = "4ee9ead09fe2cf59af6693552fd00bfdd411d655cfe85e5d37c01ffc836ed99c"
 metafile = true
