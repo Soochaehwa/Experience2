@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.toml"
-hash = "2a9f5daa595c2f5d1f4f818e741a371f8313ef55bdd3d86c0a700090262809ae"
+hash = "4ee9ead09fe2cf59af6693552fd00bfdd411d655cfe85e5d37c01ffc836ed99c"
 metafile = true
 
 [[files]]
@@ -229,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/transliterationlib.toml"
-hash = "96fee98887a8f5dda443856e93554d8db7a641e7b7175cda5a7375da0fc9162a"
+hash = "1b88d2b8eeebcb405121d87660f81f5e2159fdd7d988f2837fbcb99ef0b9f63d"
 metafile = true
 
 [[files]]
