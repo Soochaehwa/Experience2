@@ -105,7 +105,7 @@ key_key.boosted-brightness.raise:key.keyboard.right.bracket
 key_key.boosted-brightness.lower:key.keyboard.left.bracket
 key_key.whereisit.finditem:key.keyboard.y
 key_key.mousewheelie.open_config_screen:key.keyboard.unknown
-key_key.mousewheelie.sort_inventory:key.mouse.middle
+key_key.mousewheelie.sort_inventory:key.keyboard.r
 key_key.mousewheelie.scroll_up:amecsapi.key.mouse.scroll.up
 key_key.mousewheelie.scroll_down:amecsapi.key.mouse.scroll.down
 key_key.mousewheelie.pick_tool:key.keyboard.unknown
@@ -115,7 +115,7 @@ key_key.okzoomer.zoom:key.keyboard.c
 key_key.okzoomer.decrease_zoom:key.keyboard.unknown
 key_key.okzoomer.increase_zoom:key.keyboard.unknown
 key_key.okzoomer.reset_zoom:key.keyboard.unknown
-key_key.torchkey.placetorch:key.mouse.middle
+key_key.torchkey.placetorch:key.mouse.4
 key_presencefootsteps.settings.key:key.keyboard.f10
 key_key.secondarySprint:key.keyboard.w
 key_key.dismount:key.keyboard.left.shift
@@ -123,8 +123,8 @@ key_key.randompatches.narrator:key.keyboard.b
 key_key.pause:key.keyboard.escape
 key_key.gui:key.keyboard.f1
 key_key.debugInfo:key.keyboard.f3
-soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_master:0.5
+soundCategory_music:0.5
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
