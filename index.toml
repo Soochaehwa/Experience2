@@ -91,6 +91,11 @@ hash = "c120e8ab73a7cf97c9cfd082af03223189e04f3a59110183b709181817a8295b"
 metafile = true
 
 [[files]]
+file = "mods/dark-loading-screen.toml"
+hash = "3e25d5b32e57c54a98ec0911bba7aa75e6efe586924210718a0823fd7433f8c1"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-music.toml"
 hash = "e3959b1d67a1ce891403b7e7c6ace71c1348a579af61adf7df044a966b0a93df"
 metafile = true
@@ -175,11 +180,6 @@ hash = "4613a0b0acda9eedcee0f3c88707b3c354e5dcba4f0b2b993b7bb548db7f28d0"
 metafile = true
 
 [[files]]
-file = "mods/no-fade.toml"
-hash = "205f386f85a93db725ffb0e87404dd4aee6339c260a5c135bad6408af064e683"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-animations.toml"
 hash = "4ee9ead09fe2cf59af6693552fd00bfdd411d655cfe85e5d37c01ffc836ed99c"
 metafile = true
@@ -207,6 +207,11 @@ metafile = true
 [[files]]
 file = "mods/randompatches-fabric.toml"
 hash = "81179fc5374e1649cb8bb169226227bf5564be26b4f40702537d4512467c1ca8"
+metafile = true
+
+[[files]]
+file = "mods/seamless-loading-screen.toml"
+hash = "ce3798ae4c8ba521d9fae239a638a789f2c52da3d9c0d18982679132a86769ec"
 metafile = true
 
 [[files]]
