@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/modmenu.json"
+hash = "ae8b47ab3cda1fb218de53390693729c49409e76b684f398c03007fada12909b"
+
+[[files]]
+file = "config/mousewheelie.hjson"
+hash = "1d58b8d26299afa66855c2e431b102316afc9511ea6e38ab65b953cf0b7babb6"
+
+[[files]]
+file = "config/slightguimodifications/config.json5"
+hash = "458692e8413145819c25d116f4a92de3105437beee3853cd2cbdd9e9c5f17b4e"
+
+[[files]]
+file = "config/slightguimodifications/cts.groovy"
+hash = "b4c979757886952da38f36e0c6469a02b27b3e94ab402dc46762dc508f3d55d1"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "88865723df22d294a16583cfd25c16d68e786d70638077d543f70a8f222ef01a"
+
+[[files]]
 file = "mods/advancementinfo.toml"
 hash = "66264d84522f238af37417723b045b68f59d57ed0ccce4c24c20ae2aade6a9ec"
 metafile = true
@@ -229,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "c96adf43c64c5c5a989c53a40a7727e62e332b7525c5ee90722a75af90762a0a"
+hash = "8bb5ed19fcc961f608babfaa107505b8c9a1c4a428fe7229235b7035aa71b842"
 
 [[files]]
 file = "resourcepacks/Glass+Panes+CTM+Fix+v1.0.zip"
