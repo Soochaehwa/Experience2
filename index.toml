@@ -135,11 +135,6 @@ hash = "2148d404b7cf3a72a469be3433272f13218a98d0cc1af4b9abb2886bbc7848c3"
 metafile = true
 
 [[files]]
-file = "mods/lambdynamiclights.toml"
-hash = "c2eebda6b83770ef540b156b890f5ba40fd85c71176576480f8d1445ed2f1fa7"
-metafile = true
-
-[[files]]
 file = "mods/lazydfu.toml"
 hash = "da1b3ee71d9ed1f17da4c85ca3da39af3e49fcc5bb032689613c4e00fc587a40"
 metafile = true
