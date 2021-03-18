@@ -222,11 +222,6 @@ hash = "81179fc5374e1649cb8bb169226227bf5564be26b4f40702537d4512467c1ca8"
 metafile = true
 
 [[files]]
-file = "mods/seamless-loading-screen.toml"
-hash = "ce3798ae4c8ba521d9fae239a638a789f2c52da3d9c0d18982679132a86769ec"
-metafile = true
-
-[[files]]
 file = "mods/shulkerboxtooltip.toml"
 hash = "68027a1e55bff56cda351b453bd3a249138fde501b864a54f1c4b7bb8f57078a"
 metafile = true
