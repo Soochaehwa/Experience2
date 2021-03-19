@@ -5,6 +5,10 @@ file = "config/dark-loading-screen.json"
 hash = "a00131902b663cd09751f2ea946f10b0c276254e683647bf177f476461239878"
 
 [[files]]
+file = "config/lambdynlights.toml"
+hash = "d209530e667f02093955893a6ca93bea6a91f2d8fdc9c9ae2cbda5101eadb27a"
+
+[[files]]
 file = "config/modmenu.json"
 hash = "ae8b47ab3cda1fb218de53390693729c49409e76b684f398c03007fada12909b"
 
@@ -275,6 +279,16 @@ metafile = true
 [[files]]
 file = "mods/transliterationlib.toml"
 hash = "1b88d2b8eeebcb405121d87660f81f5e2159fdd7d988f2837fbcb99ef0b9f63d"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.toml"
+hash = "5099b383190ee03e3c995bf578bbe3b1e6f9a7a2c105d075836b553afe4fba8b"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.toml"
+hash = "002800b2c7d8c95949b845b783868a79faa38355dc5ffb4528237c5471ff2614"
 metafile = true
 
 [[files]]
