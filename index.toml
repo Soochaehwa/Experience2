@@ -217,6 +217,11 @@ hash = "9bef846df63021e7f4dafbb9000d1cdd172928d0fe8777b95f436e7a227318e2"
 metafile = true
 
 [[files]]
+file = "mods/nofog.toml"
+hash = "63a7a42404e22fbe42a957f7f7f1b604e94fcbb5b30e7ee705ec9a343a03f054"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.toml"
 hash = "5d5c4772cdc609e795aeb60cba299a917d2499c75ed2ab8164235535e7771d25"
 metafile = true
