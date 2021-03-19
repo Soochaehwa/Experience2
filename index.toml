@@ -296,6 +296,10 @@ file = "options.txt"
 hash = "d6c07cb22aa6cdd16676dd54f8e061f5e30512717025cf3499f4b32560999743"
 
 [[files]]
+file = "resourcepacks/Dale.zip"
+hash = "a741ad7c886eb4fdcbbdb0f82415598dfc561cd489eb1dc3b78cf7d8fd623c04"
+
+[[files]]
 file = "resourcepacks/korean_hd_font.zip"
 hash = "23d936954b93e7dbabb4f6000605151ab23972bb01acc3b1956809648029c21f"
 
