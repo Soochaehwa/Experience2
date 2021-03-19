@@ -17,6 +17,10 @@ file = "config/mousewheelie.hjson"
 hash = "1d58b8d26299afa66855c2e431b102316afc9511ea6e38ab65b953cf0b7babb6"
 
 [[files]]
+file = "config/no_fog.json"
+hash = "f664dde3d40f61b947a2105a783cf7dfad354416c9f1f860829d98c2ed1db114"
+
+[[files]]
 file = "config/presencefootsteps/updater.json"
 hash = "a0419028ec0c7a1ce0ffd08dc9153bbe921d1b1c944bc1c778eee6ff5455c510"
 
@@ -101,6 +105,11 @@ metafile = true
 [[files]]
 file = "mods/chest-tracker.toml"
 hash = "f5a8681c3b26e454a3df0c87b5244bcbc928a1fbbbe8113c5ba47c9d85d00b79"
+metafile = true
+
+[[files]]
+file = "mods/cleancut.toml"
+hash = "02a5e0ba6e583bf6733d19ca7c847991e1436f8df98a37002ca733528342a695"
 metafile = true
 
 [[files]]

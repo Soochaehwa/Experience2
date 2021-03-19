@@ -1,0 +1,636 @@
+{
+  "biomeToggles": {
+    "minecraft:plains": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:desert": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:beach": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:savanna": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:badlands": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:badlands_plateau": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:bamboo_jungle": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:bamboo_jungle_hills": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:basalt_deltas": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:birch_forest": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:birch_forest_hills": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:cold_ocean": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:crimson_forest": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:dark_forest": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:dark_forest_hills": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:deep_cold_ocean": {
+      "skyFog": false,
+      "terrainFog": true,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:deep_frozen_ocean": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:deep_lukewarm_ocean": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:deep_ocean": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:deep_warm_ocean": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:desert_hills": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:desert_lakes": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:end_barrens": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:end_highlands": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:end_midlands": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:eroded_badlands": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:flower_forest": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:forest": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:frozen_ocean": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:frozen_river": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:giant_spruce_taiga": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:giant_spruce_taiga_hills": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:giant_tree_taiga": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:giant_tree_taiga_hills": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:gravelly_mountains": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:ice_spikes": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:jungle": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:jungle_edge": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:jungle_hills": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:lukewarm_ocean": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:modified_badlands_plateau": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:modified_gravelly_mountains": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:modified_jungle": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:modified_jungle_edge": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:modified_wooded_badlands_plateau": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:mountain_edge": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:mountains": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:mushroom_field_shore": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:mushroom_fields": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:nether_wastes": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:ocean": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:river": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:savanna_plateau": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:shattered_savanna": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:shattered_savanna_plateau": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:small_end_islands": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:snowy_beach": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:snowy_mountains": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:snowy_taiga": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:snowy_taiga_hills": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:snowy_taiga_mountains": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:snowy_tundra": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:soul_sand_valley": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:stone_shore": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:sunflower_plains": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:swamp": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:swamp_hills": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:taiga": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:taiga_hills": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:taiga_mountains": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:tall_birch_forest": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:tall_birch_hills": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:the_end": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:the_void": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:warm_ocean": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:warped_forest": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:wooded_badlands_plateau": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:wooded_hills": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    },
+    "minecraft:wooded_mountains": {
+      "skyFog": false,
+      "terrainFog": false,
+      "thickFog": false,
+      "waterFog": true,
+      "lavaFog": true,
+      "blindnessFog": true
+    }
+  }
+}
