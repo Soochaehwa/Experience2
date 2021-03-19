@@ -235,6 +235,11 @@ hash = "81179fc5374e1649cb8bb169226227bf5564be26b4f40702537d4512467c1ca8"
 metafile = true
 
 [[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "8e383d7cbe2abffa9a11a30fa7b6480811a4f7eeb1653751f54ae1bb85d19c4b"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.toml"
 hash = "68027a1e55bff56cda351b453bd3a249138fde501b864a54f1c4b7bb8f57078a"
 metafile = true
