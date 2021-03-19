@@ -41,6 +41,14 @@ file = "config/sodium-extra-options.json"
 hash = "88865723df22d294a16583cfd25c16d68e786d70638077d543f70a8f222ef01a"
 
 [[files]]
+file = "config/xaerominimap.txt"
+hash = "abd35f93ad67cd23bc8485df71afa733e528c0c55b1f55186fb1151650097554"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "8a6f52cd367d3f4c16237125f22e446e21bdbe6c270261265fde9d6747bfa0df"
+
+[[files]]
 file = "mods/advancementinfo.toml"
 hash = "66264d84522f238af37417723b045b68f59d57ed0ccce4c24c20ae2aade6a9ec"
 metafile = true
@@ -293,7 +301,11 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "d6c07cb22aa6cdd16676dd54f8e061f5e30512717025cf3499f4b32560999743"
+hash = "b3f9748d6c4773e0ee2093af9f4f6367740226db44c580ab191ed46aea1384be"
+
+[[files]]
+file = "resourcepacks/CBT Glass Pane Fix.zip"
+hash = "8186054fb1bfde49c630140a878537db7fca48b4b72eb0d39ed95c5c75fe44a3"
 
 [[files]]
 file = "resourcepacks/Dale.zip"
