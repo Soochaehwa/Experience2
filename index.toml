@@ -58,6 +58,11 @@ hash = "66264d84522f238af37417723b045b68f59d57ed0ccce4c24c20ae2aade6a9ec"
 metafile = true
 
 [[files]]
+file = "mods/antighost.toml"
+hash = "ecb301d1fde6e1d3afa82cbe89337995eb4ec1031867a6c689c44b788c30253f"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.toml"
 hash = "0880860c85bd27a629f6210aab0f2cd878d6d228d755da796c1bf5ff132f9330"
 metafile = true
@@ -129,6 +134,11 @@ hash = "a447e711e59c4df7227740fb9c0860d7fb84cd3e660f3457db0b0bc5cba56731"
 [[files]]
 file = "mods/dark-loading-screen.toml"
 hash = "3e25d5b32e57c54a98ec0911bba7aa75e6efe586924210718a0823fd7433f8c1"
+metafile = true
+
+[[files]]
+file = "mods/durabilityviewer.toml"
+hash = "3e07ea859745e4ff08cc7ee2f6ed7b5fb47d60bc761d52309011e168d8a7d2cf"
 metafile = true
 
 [[files]]
@@ -287,6 +297,11 @@ hash = "07a8868889853d457ef58f05590032052d5c77f78866080ccd3a69c281cd2dff"
 [[files]]
 file = "mods/starlight-fabric-0.0.3.jar"
 hash = "cae4432be75e93a43916c113ee2b5e48e0f9ac7f4e8ae0d068a4c42f3772d886"
+
+[[files]]
+file = "mods/stepup.toml"
+hash = "59bbf532ce40a5d485c774c881daafd58f1ed85dea4b6abedc7b24446e6ffd52"
+metafile = true
 
 [[files]]
 file = "mods/tooltipfix.toml"
