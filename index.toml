@@ -191,9 +191,8 @@ hash = "153cda3c6d61ae9b32117fe5315ee40a0bd561b7292d9a5927773a368b52c254"
 metafile = true
 
 [[files]]
-file = "mods/imblockerfabric.toml"
-hash = "d84e6cec23670eb136c89e67d985ff6ca11d614ef3e397418b209dcfd97c30ba"
-metafile = true
+file = "mods/imblockerfabric-1.0.11.jar"
+hash = "875f0e6d1c6590d4784475e41e6fc032ca7a88684123e42214ba7a694b9303f7"
 
 [[files]]
 file = "mods/indium-1.0.0.jar"
