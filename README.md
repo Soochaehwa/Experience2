@@ -30,7 +30,7 @@
 - [Giselbaers Durability Viewer](https://www.curseforge.com/minecraft/mc-mods/giselbaers-durability-viewer) 내구도 뷰어
 - [Held Item Info](https://www.curseforge.com/minecraft/mc-mods/held-item-info) 손에 든 아이템 정보 뜸
 - [Hydrogen](https://modrinth.com/mod/hydrogen) 메모리 최적화
-- [IMBlockerFabric](https://www.curseforge.com/minecraft/mc-mods/imblockerfabric) 한글채팅 쉽게
+- [IMBlockerFabric](https://www.curseforge.com/minecraft/mc-mods/imblockerfabric) IME 지원
 - [Indium](https://github.com/comp500/Indium) 소듐 패브릭 렌더링 호환성
 - [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) 아이템모델 이상한거 수정
 - [Krypton](https://www.curseforge.com/minecraft/mc-mods/krypton) 네트워크 최적화
