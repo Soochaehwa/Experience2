@@ -46,11 +46,11 @@ hash = "88865723df22d294a16583cfd25c16d68e786d70638077d543f70a8f222ef01a"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "abd35f93ad67cd23bc8485df71afa733e528c0c55b1f55186fb1151650097554"
+hash = "91c24227b492de1ee99deab116de4081e0d121a36f792d42f29cdbee44de96ac"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "8a6f52cd367d3f4c16237125f22e446e21bdbe6c270261265fde9d6747bfa0df"
+hash = "7e9eefef2d0c6be353ec89b2994e82779d831f23773066f35e53edbc9e36b031"
 
 [[files]]
 file = "mods/advancementinfo.toml"
@@ -315,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "b3f9748d6c4773e0ee2093af9f4f6367740226db44c580ab191ed46aea1384be"
+hash = "c819875bd87cbef913b745c105ae5f10ba08ef44af8afbab6503fc37562ad61a"
 
 [[files]]
 file = "resourcepacks/CBT Glass Pane Fix.zip"
