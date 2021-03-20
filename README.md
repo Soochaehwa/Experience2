@@ -2,59 +2,59 @@
 내가 쓰려고 만든 모드팩
 
 ## 모드 목록
-- ['Slight' GUI Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications)
-- [AdvancementInfo](https://www.curseforge.com/minecraft/mc-mods/advancementinfo)
-- [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost)
-- [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
+- ['Slight' GUI Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) GUI 수정
+- [AdvancementInfo](https://www.curseforge.com/minecraft/mc-mods/advancementinfo) 발전과제 정보
+- [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost) 고스트블록 업데이트
+- [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) 배고픔 확인
 - [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric)
-- [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds)
-- [Better Biome Blend](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend)
-- [Better Sodium Video Settings Button](https://www.curseforge.com/minecraft/mc-mods/better-sodium-video-settings-button)
-- [Better Third Person](https://www.curseforge.com/minecraft/mc-mods/better-third-person)
-- [Blur (Fabric)](https://www.curseforge.com/minecraft/mc-mods/blur-fabric)
-- [Boosted Brightness](https://www.curseforge.com/minecraft/mc-mods/boosted-brightness)
-- [Cherished Worlds](https://www.curseforge.com/minecraft/mc-mods/cherished-worlds-fabric)
-- [Chest Tracker](https://www.curseforge.com/minecraft/mc-mods/chest-tracker)
-- [CleanCut](https://www.curseforge.com/minecraft/mc-mods/cleancut)
-- [Clear Skies](https://www.curseforge.com/minecraft/mc-mods/clear-skies)
+- [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) 침대 렌더링 최적화
+- [Better Biome Blend](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend) 생물군계 혼합 최적화
+- [Better Sodium Video Settings Button](https://www.curseforge.com/minecraft/mc-mods/better-sodium-video-settings-button) 소듐 설정 버튼 추가
+- [Better Third Person](https://www.curseforge.com/minecraft/mc-mods/better-third-person) 3인칭 화면 변경
+- [Blur (Fabric)](https://www.curseforge.com/minecraft/mc-mods/blur-fabric) 배경 흐리게
+- [Boosted Brightness](https://www.curseforge.com/minecraft/mc-mods/boosted-brightness) 밝기 범위 증가
+- [Cherished Worlds](https://www.curseforge.com/minecraft/mc-mods/cherished-worlds-fabric) 월드 즐겨찾기
+- [Chest Tracker](https://www.curseforge.com/minecraft/mc-mods/chest-tracker) 상자 아이템 추적
+- [CleanCut](https://www.curseforge.com/minecraft/mc-mods/cleancut) 잔디뒤에 몹 공격
+- [Clear Skies](https://www.curseforge.com/minecraft/mc-mods/clear-skies) 하늘 맑게
 - [Cloth Config v4](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
-- [Connected Block Textures](https://www.curseforge.com/minecraft/mc-mods/connected-block-textures)
-- [Dark Loading Screen](https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen/)
-- [Dynamic Music](https://www.curseforge.com/minecraft/mc-mods/dynamic-music)
-- [Dynamic Sound Filters](https://www.curseforge.com/minecraft/mc-mods/dynamic-sound-filters)
-- [EasierVillagerTrading](https://www.curseforge.com/minecraft/mc-mods/easiervillagertrading)
-- [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities)
-- [EntityCulling-Fabric](https://www.curseforge.com/minecraft/mc-mods/entityculling)
+- [Connected Block Textures](https://www.curseforge.com/minecraft/mc-mods/connected-block-textures) 블록 연결
+- [Dark Loading Screen](https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen/) 로딩화면 변경
+- [Dynamic Music](https://www.curseforge.com/minecraft/mc-mods/dynamic-music) 배경음악 추가
+- [Dynamic Sound Filters](https://www.curseforge.com/minecraft/mc-mods/dynamic-sound-filters) 동굴 잔향
+- [EasierVillagerTrading](https://www.curseforge.com/minecraft/mc-mods/easiervillagertrading) 주민거래 한번에
+- [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) 상자 렌더링 최적화
+- [EntityCulling-Fabric](https://www.curseforge.com/minecraft/mc-mods/entityculling) 엔티티 컬링
 - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
-- [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
-- [Giselbaers Durability Viewer](https://www.curseforge.com/minecraft/mc-mods/giselbaers-durability-viewer)
-- [Held Item Info](https://www.curseforge.com/minecraft/mc-mods/held-item-info)
-- [Hydrogen](https://modrinth.com/mod/hydrogen)
-- [IMBlockerFabric](https://www.curseforge.com/minecraft/mc-mods/imblockerfabric)
-- [Indium](https://github.com/comp500/Indium)
-- [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix)
-- [Krypton](https://www.curseforge.com/minecraft/mc-mods/krypton)
-- [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)
-- [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu)
-- [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)
-- [Mouse Wheelie](https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie)
-- [Music Duration Reducer](https://www.curseforge.com/minecraft/mc-mods/music-duration-reducer)
-- [No Fade](https://www.curseforge.com/minecraft/mc-mods/no-fade)
-- [No Fog](https://www.curseforge.com/minecraft/mc-mods/nofog/)
-- [NotEnoughAnimations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)
-- [Ok Zoomer](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer)
-- [Pling](https://www.curseforge.com/minecraft/mc-mods/pling)
-- [Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps)
-- [Raised Clouds](https://www.curseforge.com/minecraft/mc-mods/raised-clouds)
-- [RandomPatches](https://www.curseforge.com/minecraft/mc-mods/randompatches-fabric)
-- [Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
-- [Shulker Box Tooltip](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip)
-- [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)
-- [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra/)
-- [Starlight](https://github.com/Spottedleaf/Starlight)
-- [StepUp](https://www.curseforge.com/minecraft/mc-mods/stepupnext)
-- [ToolTip Fix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix)
-- [Torchkey](https://modrinth.com/mod/torchkey)
+- [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore) 메모리 최적화
+- [Giselbaers Durability Viewer](https://www.curseforge.com/minecraft/mc-mods/giselbaers-durability-viewer) 내구도 뷰어
+- [Held Item Info](https://www.curseforge.com/minecraft/mc-mods/held-item-info) 손에 든 아이템 정보 뜸
+- [Hydrogen](https://modrinth.com/mod/hydrogen) 메모리 최적화
+- [IMBlockerFabric](https://www.curseforge.com/minecraft/mc-mods/imblockerfabric) 한글채팅 쉽게
+- [Indium](https://github.com/comp500/Indium) 소듐 패브릭 렌더링 호환성
+- [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) 아이템모델 이상한거 수정
+- [Krypton](https://www.curseforge.com/minecraft/mc-mods/krypton) 네트워크 최적화
+- [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) 동적조명
+- [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) 실행속도 최적화
+- [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu) 모드메뉴
+- [Mouse Wheelie](https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie) 인벤정리 및 기타등등
+- [Music Duration Reducer](https://www.curseforge.com/minecraft/mc-mods/music-duration-reducer) 배경음악 간격 짧게
+- [No Fade](https://www.curseforge.com/minecraft/mc-mods/no-fade) 페이드 제거
+- [No Fog](https://www.curseforge.com/minecraft/mc-mods/nofog/) 안개 제거
+- [NotEnoughAnimations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations) 3인칭 애니메이션 추가
+- [Ok Zoomer](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer) 줌
+- [Pling](https://www.curseforge.com/minecraft/mc-mods/pling) 로딩다되면 띵동
+- [Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps) 발소리
+- [Raised Clouds](https://www.curseforge.com/minecraft/mc-mods/raised-clouds) 구름 높이 변경
+- [RandomPatches](https://www.curseforge.com/minecraft/mc-mods/randompatches-fabric) 각종 버그수정 및 기타등등
+- [Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items) REI
+- [Shulker Box Tooltip](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip) 셜커상자 툴팁
+- [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) 최적화
+- [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra/) 소듐 설정 추가
+- [Starlight](https://github.com/Spottedleaf/Starlight) 조명 엔진
+- [StepUp](https://www.curseforge.com/minecraft/mc-mods/stepupnext) 스텝 어시스트
+- [ToolTip Fix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) 툴팁 가로로 긴거 세로로 잘라줌
+- [Torchkey](https://modrinth.com/mod/torchkey) 토치 놓는 키 추가
 - [TRansliterationLib](https://www.curseforge.com/minecraft/mc-mods/transliterationlib)
-- [Xaero's Minimap](www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
-- [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
+- [Xaero's Minimap](www.curseforge.com/minecraft/mc-mods/xaeros-minimap) 미니맵
+- [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) 월드맵
