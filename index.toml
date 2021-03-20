@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/chesttracker.json5"
-hash = "f5140474e4a04745256ebc255f1d7bcf9dfc876d8597cf60797e5b32374882d5"
-
-[[files]]
 file = "config/dark-loading-screen.json"
 hash = "a00131902b663cd09751f2ea946f10b0c276254e683647bf177f476461239878"
 
@@ -338,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "1e84ab8d46f90981fc9357307679e26804d7f5c7a7d7cb5b2bdb79bba473d14d"
+hash = "951d6c653fe5bbeec7ba9125678c87e258a35b5c72f9ca9828fcf8d9be916bc1"
 
 [[files]]
 file = "resourcepacks/CBT Glass Pane Fix.zip"
