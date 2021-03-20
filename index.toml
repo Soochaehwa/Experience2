@@ -64,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "79e547962371206f315fd646038bcd01bd0a7fa6ccb13829505f72555ef9f7fc"
+hash = "5697feb263a627536ce09ebd1c71b6f4560e6830984eecb17887b4d887278d52"
 metafile = true
 
 [[files]]
@@ -79,7 +79,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-sodium-video-settings-button.toml"
-hash = "3c6f57544a67c8d5b842a320397cc04093808b1bf0415eb5bc8044ff2dba0fad"
+hash = "02bd1409657d7e2e342fe5ede078c0d79b9648bc90ed7139cf0d1043963df930"
 metafile = true
 
 [[files]]
