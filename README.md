@@ -1,5 +1,6 @@
 # Experience²
-내가 쓰려고 만든 모드팩
+최적화, 편의성 모드팩
+MultiMC만 설치가능
 
 ## 모드 목록
 - ['Slight' GUI Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) GUI 수정
