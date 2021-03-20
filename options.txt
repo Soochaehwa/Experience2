@@ -106,8 +106,8 @@ key_gui.xaero_map_zoom_in:key.keyboard.unknown
 key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.right.shift
 key_key.boosted-brightness.brighten:key.keyboard.delete
-key_key.boosted-brightness.raise:key.keyboard.page.down
-key_key.boosted-brightness.lower:key.keyboard.page.up
+key_key.boosted-brightness.raise:key.keyboard.page.up
+key_key.boosted-brightness.lower:key.keyboard.page.down
 key_key.whereisit.finditem:key.keyboard.y
 key_key.mousewheelie.open_config_screen:key.keyboard.unknown
 key_key.mousewheelie.sort_inventory:key.mouse.middle
