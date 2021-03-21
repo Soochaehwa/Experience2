@@ -196,7 +196,7 @@ hash = "875f0e6d1c6590d4784475e41e6fc032ca7a88684123e42214ba7a694b9303f7"
 
 [[files]]
 file = "mods/indium-1.0.0.jar"
-hash = "03ac1130b43a2778633f2cc9634dd6c5f83abe3c520464cc40a9cd05fe9261f9"
+hash = "9f58be7e8cb44ae6247983cf1061b7d31293aeb2ef8382484bc140652c3299f6"
 
 [[files]]
 file = "mods/item-model-fix.toml"
@@ -294,8 +294,8 @@ hash = "f31f14f7f638ada2fca59de6985442e504bf51bb83284ae6e8203beb7802aa34"
 metafile = true
 
 [[files]]
-file = "mods/sodium-fabric-mc1.16.4-0.1.1-SNAPSHOT.jar"
-hash = "07a8868889853d457ef58f05590032052d5c77f78866080ccd3a69c281cd2dff"
+file = "mods/sodium-fabric-mc1.16.4-0.1.1+build.298.jar"
+hash = "9e02bf510f23fc5e611e7dbd7a7bbc3e48332af3555287ea3fc8dcde359ade7e"
 
 [[files]]
 file = "mods/starlight-fabric-0.0.3.jar"
