@@ -1,6 +1,33 @@
 # Experience²
 최적화, 편의성 모드팩
-MultiMC만 설치가능
+
+## 바닐라 런처 설치 방법
+
+
+![92](https://user-images.githubusercontent.com/43947445/111895113-a92ab880-8a53-11eb-9db8-b5478cea9b66.png)
+
+1. 윈도우 + R키를 눌려 **%appdata%/.minecraft/versions** 입력
+
+![95](https://user-images.githubusercontent.com/43947445/111895176-3ff77500-8a54-11eb-8b69-3440780e0c0c.png)
+
+2. 열린 폴더에 [Vanilla-Experience2.zip](https://github.com/laxotor/Experience2/releases/download/v1.0.0/Vanilla-Experience2.zip)을 다운 받은 후 압축을 풀어 넣는다.
+
+![91](https://user-images.githubusercontent.com/43947445/111895209-703f1380-8a54-11eb-9fd6-12448115bb4a.png)
+
+3. 마인크래프트 런처를 실행하여 사진과 같이 새 인스턴스를 만든다. 
+
+**게임 디렉터리는 반드시 압축 푼 Experience2 폴더로 설정해야함**
+
+
+## MultiMC 설치 방법
+
+![96](https://user-images.githubusercontent.com/43947445/111895282-e3488a00-8a54-11eb-90cd-e1286927a92c.png)
+
+Zip으로부터 읽어들이기에 
+
+> **https://github.com/laxotor/Experience2/releases/download/v1.0.0/Experience2.zip** 
+
+입력 후 확인
 
 ## 모드 목록
 - ['Slight' GUI Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) GUI 수정
