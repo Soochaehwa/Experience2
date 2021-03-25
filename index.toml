@@ -73,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "5697feb263a627536ce09ebd1c71b6f4560e6830984eecb17887b4d887278d52"
+hash = "54675f989eda25fa8e660ddc2d2dcfbb1a455cd73cab8fc5f157bbd3bade6703"
 metafile = true
 
 [[files]]
@@ -166,13 +166,8 @@ hash = "ffe2f4694ec2e91908d679885314f05f228b77d7f6fa283d31786fc42043ffaa"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.toml"
-hash = "2ff8af3e5555256d9de0d1a46422f1b75457174c87e7dd8a2f07634b5383cae2"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.toml"
-hash = "7ceb30c98d2160fb0cbeed0da907e343513b190e42e794680344b4b52275dc85"
+hash = "9891f576ae2fd7796c99deec82c73e2b1a5a19b2d20f34b49d5c6db0a2e45e77"
 metafile = true
 
 [[files]]
@@ -275,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "e58f7dd9fe9616cb2d6b799f3757a0ba4b84d76daea0c63bb15af682bb56a1ad"
+hash = "ae450426f23a94475320836f0ddbc6ae71782cd7b0a196a12ba165ef7f9168be"
 metafile = true
 
 [[files]]
