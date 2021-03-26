@@ -289,8 +289,8 @@ hash = "f31f14f7f638ada2fca59de6985442e504bf51bb83284ae6e8203beb7802aa34"
 metafile = true
 
 [[files]]
-file = "mods/sodium-fabric-mc1.16.4-0.1.1+build.298.jar"
-hash = "9e02bf510f23fc5e611e7dbd7a7bbc3e48332af3555287ea3fc8dcde359ade7e"
+file = "mods/sodium-fabric-mc1.16.4-0.1.1+build.309.jar"
+hash = "ca8f6d56acf486175a36aabb9822c58386ec60c4a036b40a17aad589b4beb70a"
 
 [[files]]
 file = "mods/starlight-fabric-0.0.3.jar"
