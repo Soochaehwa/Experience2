@@ -54,7 +54,6 @@ Zip으로부터 읽어들이기에
 - [Dynamic Sound Filters](https://www.curseforge.com/minecraft/mc-mods/dynamic-sound-filters) 동굴 잔향
 - [EasierVillagerTrading](https://www.curseforge.com/minecraft/mc-mods/easiervillagertrading) 주민거래 한번에
 - [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) 상자 렌더링 최적화
-- [EntityCulling-Fabric](https://www.curseforge.com/minecraft/mc-mods/entityculling) 엔티티 컬링
 - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 - [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore) 메모리 최적화
 - [Giselbaers Durability Viewer](https://www.curseforge.com/minecraft/mc-mods/giselbaers-durability-viewer) 내구도 뷰어
