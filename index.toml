@@ -57,6 +57,10 @@ file = "config/xaeroworldmap.txt"
 hash = "7e9eefef2d0c6be353ec89b2994e82779d831f23773066f35e53edbc9e36b031"
 
 [[files]]
+file = "indium-1.0.0.jar"
+hash = "9f58be7e8cb44ae6247983cf1061b7d31293aeb2ef8382484bc140652c3299f6"
+
+[[files]]
 file = "mods/advancementinfo.toml"
 hash = "66264d84522f238af37417723b045b68f59d57ed0ccce4c24c20ae2aade6a9ec"
 metafile = true
@@ -113,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/chest-tracker.toml"
-hash = "f5a8681c3b26e454a3df0c87b5244bcbc928a1fbbbe8113c5ba47c9d85d00b79"
+hash = "2490a7f788d74f9edd959b6535e972fa56555ae9e17180542d9f385a246b609b"
 metafile = true
 
 [[files]]
@@ -240,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.toml"
-hash = "5d5c4772cdc609e795aeb60cba299a917d2499c75ed2ab8164235535e7771d25"
+hash = "e2281ef7575b9e2f1af7bdfd232f8777cf34d1d37d487043075d8b56f765c2f6"
 metafile = true
 
 [[files]]
@@ -289,8 +293,8 @@ hash = "f31f14f7f638ada2fca59de6985442e504bf51bb83284ae6e8203beb7802aa34"
 metafile = true
 
 [[files]]
-file = "mods/sodium-fabric-mc1.16.4-0.1.1+build.309.jar"
-hash = "ca8f6d56acf486175a36aabb9822c58386ec60c4a036b40a17aad589b4beb70a"
+file = "mods/sodium-fabric-mc1.16.4-0.1.1+build.324.jar"
+hash = "aebafc919e98aacf1e68176d63b40774efa81af23a0cbef9b5b30d0cdffc5f17"
 
 [[files]]
 file = "mods/starlight-fabric-0.0.3.jar"
@@ -313,17 +317,17 @@ metafile = true
 
 [[files]]
 file = "mods/transliterationlib.toml"
-hash = "1b88d2b8eeebcb405121d87660f81f5e2159fdd7d988f2837fbcb99ef0b9f63d"
+hash = "365b01308702b2f1b1e30133ff42302576acd55e4331609b726803f2a2086d00"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "5099b383190ee03e3c995bf578bbe3b1e6f9a7a2c105d075836b553afe4fba8b"
+hash = "4dd219277041a0071cdc0ddfc6b817a82012a08756f72c27c7ddaf6a6a6d4cd2"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "002800b2c7d8c95949b845b783868a79faa38355dc5ffb4528237c5471ff2614"
+hash = "1727690746b1fa5a40de494c0789fe1cc4a5f8e6159a4238eb53d1c2d4b6abfa"
 metafile = true
 
 [[files]]
