@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/chest-tracker.toml"
-hash = "2490a7f788d74f9edd959b6535e972fa56555ae9e17180542d9f385a246b609b"
+hash = "2d5ea8fee0fc997948f35b1ab08c709e95763d98545ca6656465844a494296fa"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "85ef957c31b5fc432e4c9f74ca25a82324ae1db9b93438a7a27ed9d06e315d7d"
+hash = "4cb308e652408e2c760a853638346a9e4d8d6febfd951158369ef30ac6669a2b"
 metafile = true
 
 [[files]]
@@ -297,8 +297,8 @@ file = "mods/sodium-fabric-mc1.16.4-0.1.1+build.324.jar"
 hash = "aebafc919e98aacf1e68176d63b40774efa81af23a0cbef9b5b30d0cdffc5f17"
 
 [[files]]
-file = "mods/starlight-fabric-0.0.3.jar"
-hash = "cae4432be75e93a43916c113ee2b5e48e0f9ac7f4e8ae0d068a4c42f3772d886"
+file = "mods/starlight-fabric-1.0.0-RC1-1.16.x.jar"
+hash = "9c155a4c4b855cb3cc9c0f2dde8e9fe14fdde442093f82c4a680b15028f22414"
 
 [[files]]
 file = "mods/stepup.toml"
