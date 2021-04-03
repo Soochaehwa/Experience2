@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "54675f989eda25fa8e660ddc2d2dcfbb1a455cd73cab8fc5f157bbd3bade6703"
+hash = "c7d982413d0428c8be354e6238241ff9c51c4f1fa82c5b8203654249dea4c2d2"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/chest-tracker.toml"
-hash = "2d5ea8fee0fc997948f35b1ab08c709e95763d98545ca6656465844a494296fa"
+hash = "b9c8a59d606cd2af3f2ac72cbd5b064d0a0336656232351302af85b5f5ebf5fe"
 metafile = true
 
 [[files]]
@@ -190,8 +190,9 @@ hash = "153cda3c6d61ae9b32117fe5315ee40a0bd561b7292d9a5927773a368b52c254"
 metafile = true
 
 [[files]]
-file = "mods/imblockerfabric-1.0.11.jar"
-hash = "875f0e6d1c6590d4784475e41e6fc032ca7a88684123e42214ba7a694b9303f7"
+file = "mods/imblockerfabric.toml"
+hash = "a0791b5bf274483549ee0a96769f31dd4446410b9030ac7ec38f0586a3784180"
+metafile = true
 
 [[files]]
 file = "mods/indium-1.0.0.jar"
@@ -244,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.toml"
-hash = "e2281ef7575b9e2f1af7bdfd232f8777cf34d1d37d487043075d8b56f765c2f6"
+hash = "338f1e7a9f2f405147405e71072725578043dee5c24b4fc2469dfc72e8a70b68"
 metafile = true
 
 [[files]]
@@ -322,7 +323,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "4dd219277041a0071cdc0ddfc6b817a82012a08756f72c27c7ddaf6a6a6d4cd2"
+hash = "e80bf0c376cf193fa2854c45b07d950004114815fad28e95e41116a905ca4f52"
 metafile = true
 
 [[files]]
