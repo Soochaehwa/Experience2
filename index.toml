@@ -57,10 +57,6 @@ file = "config/xaeroworldmap.txt"
 hash = "7e9eefef2d0c6be353ec89b2994e82779d831f23773066f35e53edbc9e36b031"
 
 [[files]]
-file = "indium-1.0.0.jar"
-hash = "9f58be7e8cb44ae6247983cf1061b7d31293aeb2ef8382484bc140652c3299f6"
-
-[[files]]
 file = "mods/advancementinfo.toml"
 hash = "66264d84522f238af37417723b045b68f59d57ed0ccce4c24c20ae2aade6a9ec"
 metafile = true
@@ -87,7 +83,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-biome-blend.toml"
-hash = "7e3e93976137002152e4cc18f487906ce3ba1b9701c92313c2287ae6cb0f0dc0"
+hash = "eadeed6b7e0789ae3c7969a06cb85d6829108dd36409b92b7118a888012e97a5"
 metafile = true
 
 [[files]]
@@ -117,7 +113,7 @@ metafile = true
 
 [[files]]
 file = "mods/chest-tracker.toml"
-hash = "b9c8a59d606cd2af3f2ac72cbd5b064d0a0336656232351302af85b5f5ebf5fe"
+hash = "aed948050b8acd7bceee1f406d7ff525091d8d3b3588394177438b48fdd511c1"
 metafile = true
 
 [[files]]
@@ -132,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "4cb308e652408e2c760a853638346a9e4d8d6febfd951158369ef30ac6669a2b"
+hash = "3e565913e5050f4394f2dde8452edf37548d7ee2f108b2474144a706f4eca1b9"
 metafile = true
 
 [[files]]
@@ -204,11 +200,6 @@ hash = "698c5a62a2eac0310b05186da97549233bec8de88850c61d45087d386f34d4ca"
 metafile = true
 
 [[files]]
-file = "mods/krypton.toml"
-hash = "2148d404b7cf3a72a469be3433272f13218a98d0cc1af4b9abb2886bbc7848c3"
-metafile = true
-
-[[files]]
 file = "mods/lambdynamiclights.toml"
 hash = "c2eebda6b83770ef540b156b890f5ba40fd85c71176576480f8d1445ed2f1fa7"
 metafile = true
@@ -220,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "25448ae81624164fb756a24c5c46e0cacef4601df135a900f0fde7281186dd5f"
+hash = "c2dc58ad1ce065d73a250283bf1849cf07c1e211892ccbb4d943b7c59c79b22c"
 metafile = true
 
 [[files]]
@@ -323,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "e80bf0c376cf193fa2854c45b07d950004114815fad28e95e41116a905ca4f52"
+hash = "62ac431e557c19fab03be0e2ee5b608f1ed0359fe7802ce825969d2b9879786e"
 metafile = true
 
 [[files]]
