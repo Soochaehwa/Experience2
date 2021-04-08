@@ -303,11 +303,6 @@ hash = "fde37d4760ea8b9bbf8796efac55e8f8086ab3d7663f799b72161482bd22f951"
 metafile = true
 
 [[files]]
-file = "mods/torchkey.toml"
-hash = "2870da9c6587074bcb432cbe7a69155b9216d5e84c605ddd4d4842d69d8a2482"
-metafile = true
-
-[[files]]
 file = "mods/transliterationlib.toml"
 hash = "365b01308702b2f1b1e30133ff42302576acd55e4331609b726803f2a2086d00"
 metafile = true
