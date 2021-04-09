@@ -1,25 +1,6 @@
 # Experience²
-![2021-03-20_23 22 35](https://user-images.githubusercontent.com/43947445/111895479-20f9e280-8a56-11eb-9e07-9141f10aeeaf.png)
 
-최적화, 편의성 모드팩
-
-## 바닐라 런처 설치 방법
-
-
-![92](https://user-images.githubusercontent.com/43947445/111895113-a92ab880-8a53-11eb-9db8-b5478cea9b66.png)
-
-1. 윈도우 + R키를 눌려 **%appdata%/.minecraft/versions** 입력
-
-![95](https://user-images.githubusercontent.com/43947445/111895176-3ff77500-8a54-11eb-8b69-3440780e0c0c.png)
-
-2. 열린 폴더에 [Vanilla-Experience2.zip](https://github.com/laxotor/Experience2/releases/download/v1.0.0/Vanilla-Experience2.zip)을 다운 받은 후 압축을 풀어 넣는다.
-
-![91](https://user-images.githubusercontent.com/43947445/111895209-703f1380-8a54-11eb-9fd6-12448115bb4a.png)
-
-3. 마인크래프트 런처를 실행하여 사진과 같이 새 인스턴스를 만든다. 
-
-**게임 디렉터리는 반드시 압축 푼 Experience2 폴더로 설정해야함**
-
+최적화 및 편의성 향상 모드팩
 
 ## MultiMC 설치 방법
 
@@ -62,7 +43,6 @@ Zip으로부터 읽어들이기에
 - [IMBlockerFabric](https://www.curseforge.com/minecraft/mc-mods/imblockerfabric) IME 지원
 - [Indium](https://github.com/comp500/Indium) 소듐 패브릭 렌더링 호환성
 - [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) 아이템모델 이상한거 수정
-- [Krypton](https://www.curseforge.com/minecraft/mc-mods/krypton) 네트워크 최적화
 - [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) 동적조명
 - [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) 실행속도 최적화
 - [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu) 모드메뉴
@@ -83,7 +63,6 @@ Zip으로부터 읽어들이기에
 - [Starlight](https://github.com/Spottedleaf/Starlight) 조명 엔진
 - [StepUp](https://www.curseforge.com/minecraft/mc-mods/stepupnext) 스텝 어시스트
 - [ToolTip Fix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) 툴팁 가로로 긴거 세로로 잘라줌
-- [Torchkey](https://modrinth.com/mod/torchkey) 토치 놓는 키 추가
 - [TRansliterationLib](https://www.curseforge.com/minecraft/mc-mods/transliterationlib)
 - [Xaero's Minimap](www.curseforge.com/minecraft/mc-mods/xaeros-minimap) 미니맵
 - [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) 월드맵
