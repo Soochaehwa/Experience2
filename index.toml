@@ -73,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "c7d982413d0428c8be354e6238241ff9c51c4f1fa82c5b8203654249dea4c2d2"
+hash = "9d321c99521f8812ab01f28b92e94f1f5c1825ccc3df35dfd740d0de811bca33"
 metafile = true
 
 [[files]]
@@ -133,7 +133,7 @@ metafile = true
 
 [[files]]
 file = "mods/connected-block-textures-0.1.3+1.16.jar"
-hash = "a447e711e59c4df7227740fb9c0860d7fb84cd3e660f3457db0b0bc5cba56731"
+hash = "a8e23b90332ae13dc21e82f87de4a597cb56d06cdaabbfdd6983589af2e0b702"
 
 [[files]]
 file = "mods/dark-loading-screen.toml"
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium-1.0.0.jar"
-hash = "9f58be7e8cb44ae6247983cf1061b7d31293aeb2ef8382484bc140652c3299f6"
+hash = "08aca430f09af3368ce952beb1b73ae61c79034950522e0ef6dfa044d5875a3e"
 
 [[files]]
 file = "mods/item-model-fix.toml"
@@ -266,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "ae450426f23a94475320836f0ddbc6ae71782cd7b0a196a12ba165ef7f9168be"
+hash = "e58de227a9e6f450e79893688e1b83463e015166fc91e695b617eed227df3770"
 metafile = true
 
 [[files]]
@@ -285,8 +285,8 @@ hash = "f31f14f7f638ada2fca59de6985442e504bf51bb83284ae6e8203beb7802aa34"
 metafile = true
 
 [[files]]
-file = "mods/sodium-fabric-mc1.16.4-0.1.1+build.339.jar"
-hash = "cd19e753eddb7bf00db48c5a3e066d539cbb2628bf709e56d4f0dd97a65a3999"
+file = "mods/sodium-fabric-mc1.16.4-0.1.1+build.344.jar"
+hash = "6682b0dd3abcdf3d59393a93b051c1d9415af2819e4df4c1eea64937073bea5c"
 
 [[files]]
 file = "mods/starlight-fabric-1.0.0-RC1-1.16.x.jar"
