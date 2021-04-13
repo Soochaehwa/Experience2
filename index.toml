@@ -322,10 +322,6 @@ file = "options.txt"
 hash = "951d6c653fe5bbeec7ba9125678c87e258a35b5c72f9ca9828fcf8d9be916bc1"
 
 [[files]]
-file = "resourcepacks/CBT Glass Pane Fix.zip"
-hash = "8186054fb1bfde49c630140a878537db7fca48b4b72eb0d39ed95c5c75fe44a3"
-
-[[files]]
 file = "resourcepacks/Dale.zip"
 hash = "a741ad7c886eb4fdcbbdb0f82415598dfc561cd489eb1dc3b78cf7d8fd623c04"
 
