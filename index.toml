@@ -73,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "9d321c99521f8812ab01f28b92e94f1f5c1825ccc3df35dfd740d0de811bca33"
+hash = "2364daf82fc276d6cb1b2f30ce7e8da7ea3b6f1c9006119a2e76e9c95226d5d5"
 metafile = true
 
 [[files]]
@@ -128,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "3e565913e5050f4394f2dde8452edf37548d7ee2f108b2474144a706f4eca1b9"
+hash = "0a52ac326bf7a04031a8b9b186ffd26c2990012866d077445afc207744285366"
 metafile = true
 
 [[files]]
@@ -162,17 +162,17 @@ metafile = true
 
 [[files]]
 file = "mods/ebe.toml"
-hash = "ffe2f4694ec2e91908d679885314f05f228b77d7f6fa283d31786fc42043ffaa"
+hash = "6c11ca8b1f4f3c9be04e5eb1ace4aac1cd6bdf8660f7ed5a7b0d0ff3a9e02842"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "9891f576ae2fd7796c99deec82c73e2b1a5a19b2d20f34b49d5c6db0a2e45e77"
+hash = "63d16f85201080c81461d06bfb547f89e7d77d0698603c750667be2ad6689d9a"
 metafile = true
 
 [[files]]
-file = "mods/ferritecore.toml"
-hash = "bda628e2537720b1d5e11fd5e700c0be0ad770e6ac2505c3b0f4bce9eba064d8"
+file = "mods/ferritecore-fabric.toml"
+hash = "ed613e13e8c4c55679db7625f0a9c23842ef28195c6c716836790e7b4efe28a7"
 metafile = true
 
 [[files]]
@@ -196,7 +196,7 @@ hash = "08aca430f09af3368ce952beb1b73ae61c79034950522e0ef6dfa044d5875a3e"
 
 [[files]]
 file = "mods/item-model-fix.toml"
-hash = "698c5a62a2eac0310b05186da97549233bec8de88850c61d45087d386f34d4ca"
+hash = "0cb56bb19465691106bb5deb981e41f0a35f41c282c802ef5f3bf71a060d55fa"
 metafile = true
 
 [[files]]
@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.toml"
-hash = "caab538f8a73b1bb8921421d4baa64b53041eddf9dd8b4093395783e1be9a71f"
+hash = "ff4add9d20ceda3e6334811d9905566b4c956d0f2c5af566161af8c292e2fedb"
 metafile = true
 
 [[files]]
@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.toml"
-hash = "338f1e7a9f2f405147405e71072725578043dee5c24b4fc2469dfc72e8a70b68"
+hash = "a1f0c9a6230b2e7434067f050d3248ab7475f428565f4bfd8e4d482d463d7009"
 metafile = true
 
 [[files]]
@@ -266,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "e58de227a9e6f450e79893688e1b83463e015166fc91e695b617eed227df3770"
+hash = "f53de056dd0d1029be5b6fad356605ecd6367ef48807f664e571ceb43d70d919"
 metafile = true
 
 [[files]]
@@ -281,16 +281,16 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "f31f14f7f638ada2fca59de6985442e504bf51bb83284ae6e8203beb7802aa34"
+hash = "f3ad314aaea51ee2bfbdd05de35b012df356c62167f44c719f4964068de784d4"
 metafile = true
 
 [[files]]
-file = "mods/sodium-fabric-mc1.16.4-0.1.1+build.344.jar"
-hash = "6682b0dd3abcdf3d59393a93b051c1d9415af2819e4df4c1eea64937073bea5c"
+file = "mods/sodium-fabric-mc1.16.5-0.1.1+build.359.jar"
+hash = "34097ffccb49728d324d455e64ac5865387965889a29805f240982c1784a0272"
 
 [[files]]
-file = "mods/starlight-fabric-1.0.0-RC1-1.16.x.jar"
-hash = "9c155a4c4b855cb3cc9c0f2dde8e9fe14fdde442093f82c4a680b15028f22414"
+file = "mods/starlight-fabric-1.0.0-RC2-1.16.x.jar"
+hash = "faebc2e6f0cd048423fe0dcf39535211ffb17bb9e5a9adeea6de030c07b196a4"
 
 [[files]]
 file = "mods/stepup.toml"
@@ -309,12 +309,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "62ac431e557c19fab03be0e2ee5b608f1ed0359fe7802ce825969d2b9879786e"
+hash = "90c917f642a8e78894d68317921e49a71ad97287a67c5f7092680cd6ce36fbe8"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "1727690746b1fa5a40de494c0789fe1cc4a5f8e6159a4238eb53d1c2d4b6abfa"
+hash = "c790e3aab4ab1884343cad340aef4fe1bfb2b7c9beea4efcdbf0a830e7c59ac7"
 metafile = true
 
 [[files]]
