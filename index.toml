@@ -210,6 +210,11 @@ hash = "da1b3ee71d9ed1f17da4c85ca3da39af3e49fcc5bb032689613c4e00fc587a40"
 metafile = true
 
 [[files]]
+file = "mods/minecraftcapes-mod.toml"
+hash = "b02dff101f24a413ba8b3d54965b0c52085d3b372c42dc25d938afd092555552"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.toml"
 hash = "c2dc58ad1ce065d73a250283bf1849cf07c1e211892ccbb4d943b7c59c79b22c"
 metafile = true
