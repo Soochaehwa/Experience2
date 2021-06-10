@@ -1,12 +1,12 @@
-name = "Experience^2"
-author = "SooChaehwa"
+name = "Experience 2"
+author = "Soochaehwa"
 version = "1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "696a884a8706a9fdd7017e8e96ebe018907c493c8e7dc8be5e261d0eba81a7f4"
+hash = "9f219973ac98f8d24784e5475cb9bcbce7cd803a30415fb630e0f9b509f09efa"
 
 [versions]
 fabric = "0.11.3"
-minecraft = "1.16.5"
+minecraft = "1.17"
