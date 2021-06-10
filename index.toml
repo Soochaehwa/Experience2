@@ -260,11 +260,6 @@ hash = "2af5cdc1204fc0b04e8f4a609e8345af585112eac48622fce317791e91294653"
 metafile = true
 
 [[files]]
-file = "mods/raised-clouds.toml"
-hash = "9ee0d470f1263c54344a9376ca16dc8161bcfe4dd5662fadf565d5dc39fa7d6b"
-metafile = true
-
-[[files]]
 file = "mods/randompatches-fabric.toml"
 hash = "81179fc5374e1649cb8bb169226227bf5564be26b4f40702537d4512467c1ca8"
 metafile = true
