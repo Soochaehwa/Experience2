@@ -1,0 +1,13 @@
+name = "EasierVillagerTrading"
+filename = "easiervillagertrading-1.17-fabric0.34.9-1.5.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ChscgScW/versions/1.17-fabric0.34.9-1.5.3/easiervillagertrading-1.17-fabric0.34.9-1.5.3.jar"
+hash-format = "sha512"
+hash = "e8c774b7e7cee0e865c7a77f7394fd468fd030f479d82e20b8c5859d4e34e0b1cef0fac1aaa3e8bc79fb4d47fef4853c88bc6acee2bcae27f551c84ad6d2657b"
+
+[update]
+[update.modrinth]
+mod-id = "ChscgScW"
+version = "RJPu7Js6"

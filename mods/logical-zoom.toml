@@ -1,0 +1,14 @@
+name = "Logical Zoom"
+filename = "logical_zoom-0.0.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3344/180/logical_zoom-0.0.9.jar"
+hash-format = "murmur2"
+hash = "441256229"
+
+[update]
+[update.curseforge]
+file-id = 3344180
+project-id = 356461
+release-channel = "beta"

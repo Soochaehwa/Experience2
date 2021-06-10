@@ -5,8 +5,11 @@ version = "1.0.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9f219973ac98f8d24784e5475cb9bcbce7cd803a30415fb630e0f9b509f09efa"
+hash = "2d03036bfaef1fe679f2089f4155c7c275a309dc522b59efb2384100a6c2e36e"
 
 [versions]
 fabric = "0.11.3"
 minecraft = "1.17"
+
+[options]
+acceptable-game-versions = "1.16.5"

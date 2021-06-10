@@ -1,1 +1,100 @@
 hash-format = "sha256"
+
+[[files]]
+file = "mods/advancementinfo.toml"
+hash = "ae1293e4489624f8daccf97dc955fe83289889cebb5d8d74d9932218fb08c249"
+metafile = true
+
+[[files]]
+file = "mods/advancements-debug.toml"
+hash = "9a1ef3ae5af35df9fd76be1a5c34606cf244dd381c5aa11d29777a81965827cf"
+metafile = true
+
+[[files]]
+file = "mods/antighost.toml"
+hash = "4565525cb7a78f7709e13dc2795f020c87b54dc4beadffc13939ba7cf1b31bf1"
+metafile = true
+
+[[files]]
+file = "mods/better-third-person.toml"
+hash = "b9cd1c19d70cafe780d5abc3add4fe47f198e304fcd7b6a0e0e07639cdbc6285"
+metafile = true
+
+[[files]]
+file = "mods/canvas-renderer.toml"
+hash = "a0aa03a3f166f1a53a81660c1a93235d6d9147e9fc9f45a11aa24a9f855a5a91"
+metafile = true
+
+[[files]]
+file = "mods/easiervillagertrading.toml"
+hash = "5440e9f990246bdb0df6294ae00012793ea3a9bd91817bc8ee2621df6c6ebe54"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "0849fac6eefbbfaad900a0040babeb8f275556f22bb5958e77018bd77c477e0d"
+metafile = true
+
+[[files]]
+file = "mods/held-item-info.toml"
+hash = "cff784ac7238964fd3b6f880944a7e8d1f88b6c862c9c40e0e28c0823b569f4a"
+metafile = true
+
+[[files]]
+file = "mods/imblockerfabric.toml"
+hash = "a0791b5bf274483549ee0a96769f31dd4446410b9030ac7ec38f0586a3784180"
+metafile = true
+
+[[files]]
+file = "mods/item-model-fix.toml"
+hash = "1fc81c2fb496ad395c8d81c55b292f2131548d6654fc1201f79d61e1564052cd"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "da1b3ee71d9ed1f17da4c85ca3da39af3e49fcc5bb032689613c4e00fc587a40"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "090d1c67dc4168150f946149beaff9e91240a0d55cd5d4ab9eb42039643d908d"
+metafile = true
+
+[[files]]
+file = "mods/logical-zoom.toml"
+hash = "999aa724d747ff776db771f0659932b90c3827c71db51257d367ad3c2b8995d1"
+metafile = true
+
+[[files]]
+file = "mods/minecraftcapes-mod.toml"
+hash = "03b544e8516fbadb51c49b150514ef87bcc81833289fc1808eb4ce9dfa173fed"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "e169363f79b6a9269704690470b12210bce59fda4b9dd07f46cbddbccacb4049"
+metafile = true
+
+[[files]]
+file = "mods/multiconnect.toml"
+hash = "9c9d36441a911b2b860dc8c9e2d7281c4847b418b4aa274c0f82e40725e405c9"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.toml"
+hash = "dc18e4329acdfff8b9c173e736c6e97e1363992bf0bc0d27d19bf6084c0ad7b9"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.toml"
+hash = "b900dbeda370c9e0abef318f29462e6582d744dd1d269b48b581e5ce4b775c98"
+metafile = true
+
+[[files]]
+file = "mods/starlight-fabric-1.0.0-RC2-1.17.x.jar"
+hash = "76f7ac2b670ae241d9d8c5c99809e8b2b2f9611b633f074922da935250ae5cd1"
+
+[[files]]
+file = "mods/transliterationlib.toml"
+hash = "4f825c4efffa10a402b17b04fb6c010a072202ab758b20611132ed7cbbd4de7f"
+metafile = true
