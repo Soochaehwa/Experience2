@@ -73,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "2364daf82fc276d6cb1b2f30ce7e8da7ea3b6f1c9006119a2e76e9c95226d5d5"
+hash = "2d691c28c616f506f5e869955cac881ad91ecdfdb87c1a05dc599e0998d098cd"
 metafile = true
 
 [[files]]
@@ -128,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "0a52ac326bf7a04031a8b9b186ffd26c2990012866d077445afc207744285366"
+hash = "4ac362da27727d78e5105fe2a2da78db6926aacddf1377bd662eb154a31e63f8"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-music.toml"
-hash = "e3959b1d67a1ce891403b7e7c6ace71c1348a579af61adf7df044a966b0a93df"
+hash = "6a7c4c20475abdb59ec871bd5e9f3ae8f246d3bf93f219690065408c4d18d22d"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "63d16f85201080c81461d06bfb547f89e7d77d0698603c750667be2ad6689d9a"
+hash = "640a37ac0fa258eddcc43ac2433a71b99005c0e393a035cd43f3fe6a2aca2069"
 metafile = true
 
 [[files]]
@@ -181,11 +181,6 @@ hash = "0b1fd773e47455a22ae0d021a279ee8054b2719c397db55d2dc0f199fdd65688"
 metafile = true
 
 [[files]]
-file = "mods/hydrogen.toml"
-hash = "153cda3c6d61ae9b32117fe5315ee40a0bd561b7292d9a5927773a368b52c254"
-metafile = true
-
-[[files]]
 file = "mods/imblockerfabric.toml"
 hash = "a0791b5bf274483549ee0a96769f31dd4446410b9030ac7ec38f0586a3784180"
 metafile = true
@@ -196,7 +191,7 @@ hash = "08aca430f09af3368ce952beb1b73ae61c79034950522e0ef6dfa044d5875a3e"
 
 [[files]]
 file = "mods/item-model-fix.toml"
-hash = "0cb56bb19465691106bb5deb981e41f0a35f41c282c802ef5f3bf71a060d55fa"
+hash = "cd086454ecc029769982aeed7bb136883180c477bc6d177c5efff773e39b3a98"
 metafile = true
 
 [[files]]
@@ -221,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.toml"
-hash = "ff4add9d20ceda3e6334811d9905566b4c956d0f2c5af566161af8c292e2fedb"
+hash = "f37372e44f3649d27b3112671d62f73dfc24d79c7c17a9abb930afd564757229"
 metafile = true
 
 [[files]]
@@ -271,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "f53de056dd0d1029be5b6fad356605ecd6367ef48807f664e571ceb43d70d919"
+hash = "3388f1488460e5d2d16e9c079db90258179ec4ec221fb8d75f5a6d769908990d"
 metafile = true
 
 [[files]]
@@ -286,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "f3ad314aaea51ee2bfbdd05de35b012df356c62167f44c719f4964068de784d4"
+hash = "f19b31e50e846038b35f237b81d84544020d5cc71db86b65c15e3b4f60a23300"
 metafile = true
 
 [[files]]
@@ -314,12 +309,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "90c917f642a8e78894d68317921e49a71ad97287a67c5f7092680cd6ce36fbe8"
+hash = "dc18c1907dfb23eb7cdfeeccd36eca793fbb21033b575be8fe7e366b49b43708"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "c790e3aab4ab1884343cad340aef4fe1bfb2b7c9beea4efcdbf0a830e7c59ac7"
+hash = "a0ed6899cf9e7574fe75a17b45ed86a5bd2be9ce9c5f9306c1494821648101f6"
 metafile = true
 
 [[files]]

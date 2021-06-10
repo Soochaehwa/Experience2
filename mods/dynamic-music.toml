@@ -1,14 +1,14 @@
 name = "Dynamic Music"
-filename = "dynamic-music-1.1.0.jar"
+filename = "dynmus-1.2.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3212/101/dynamic-music-1.1.0.jar"
+url = "https://edge.forgecdn.net/files/3314/565/dynmus-1.2.0.jar"
 hash-format = "murmur2"
-hash = "972746913"
+hash = "280195167"
 
 [update]
 [update.curseforge]
-file-id = 3212101
+file-id = 3314565
 project-id = 430824
 release-channel = "beta"
