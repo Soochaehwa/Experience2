@@ -185,6 +185,10 @@ file = "mods/indium-1.0.0+1.16.5-a997c55.jar"
 hash = "ce1ea7cee33e9d6a2a0068114c7db38f71af9b750fbea1f12db90fb13413da2e"
 
 [[files]]
+file = "mods/iris-mc1.16.5-1.0.0-rc1.jar"
+hash = "5d6466d7eb7560472f0169297fa444efef90f628cb1d8ecd8fad495e2362beb3"
+
+[[files]]
 file = "mods/item-model-fix.toml"
 hash = "cd086454ecc029769982aeed7bb136883180c477bc6d177c5efff773e39b3a98"
 metafile = true
@@ -278,10 +282,6 @@ metafile = true
 file = "mods/sodium-extra.toml"
 hash = "f19b31e50e846038b35f237b81d84544020d5cc71db86b65c15e3b4f60a23300"
 metafile = true
-
-[[files]]
-file = "mods/sodium-fabric-mc1.16.5-0.2.0+build.387.jar"
-hash = "2f199ddf0136041e8be45da7d0d2bb5898895421d3752433737b60cad3c74321"
 
 [[files]]
 file = "mods/starlight-fabric-1.0.0-RC2-1.16.x.jar"
