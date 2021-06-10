@@ -23,7 +23,7 @@ fov:0.0
 screenEffectScale:1.0
 fovEffectScale:1.0
 gamma:0.0
-renderDistance:18
+renderDistance:12
 entityDistanceScaling:1.0
 guiScale:2
 particles:0
@@ -31,7 +31,7 @@ maxFps:120
 difficulty:2
 graphicsMode:1
 ao:2
-biomeBlendRadius:14
+biomeBlendRadius:7
 renderClouds:true
 resourcePacks:["vanilla","Fabric Mods","slightguimodifications:cts_textures","file/korean_hd_font.zip","file/CBT Glass Pane Fix.zip"]
 incompatibleResourcePacks:[]
@@ -142,8 +142,8 @@ key_key.randompatches.narrator:key.keyboard.b
 key_key.pause:key.keyboard.escape
 key_key.gui:key.keyboard.f1
 key_key.debugInfo:key.keyboard.f3
-soundCategory_master:0.5
-soundCategory_music:0.5
+soundCategory_master:0.3
+soundCategory_music:0.2
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

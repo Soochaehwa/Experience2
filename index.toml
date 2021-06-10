@@ -46,7 +46,7 @@ hash = "b4c979757886952da38f36e0c6469a02b27b3e94ab402dc46762dc508f3d55d1"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "88865723df22d294a16583cfd25c16d68e786d70638077d543f70a8f222ef01a"
+hash = "bdcd734e6a8a145b81a7fb033e8b2c805a5d3a2ba888e2f643e80c7b833582b7"
 
 [[files]]
 file = "config/xaerominimap.txt"
@@ -313,7 +313,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "951d6c653fe5bbeec7ba9125678c87e258a35b5c72f9ca9828fcf8d9be916bc1"
+hash = "edf4ef28dd5300d411d67e1fbd94a903032a131230191eee33d29da12e86722d"
 
 [[files]]
 file = "resourcepacks/korean_hd_font.zip"
