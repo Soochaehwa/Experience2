@@ -82,11 +82,6 @@ hash = "b5af281e161d6eea50ede0d4c54fa38467d1b1beb96066056812c7f227436058"
 metafile = true
 
 [[files]]
-file = "mods/better-biome-blend.toml"
-hash = "eadeed6b7e0789ae3c7969a06cb85d6829108dd36409b92b7118a888012e97a5"
-metafile = true
-
-[[files]]
 file = "mods/better-sodium-video-settings-button.toml"
 hash = "02bd1409657d7e2e342fe5ede078c0d79b9648bc90ed7139cf0d1043963df930"
 metafile = true
@@ -322,13 +317,5 @@ file = "options.txt"
 hash = "951d6c653fe5bbeec7ba9125678c87e258a35b5c72f9ca9828fcf8d9be916bc1"
 
 [[files]]
-file = "resourcepacks/Dale.zip"
-hash = "a741ad7c886eb4fdcbbdb0f82415598dfc561cd489eb1dc3b78cf7d8fd623c04"
-
-[[files]]
 file = "resourcepacks/korean_hd_font.zip"
 hash = "78c7157556619cd80172a6ad495bf2130ef4ac325e59e806f0ace8a676e8656c"
-
-[[files]]
-file = "resourcepacks/shaders.zip"
-hash = "4a15adeec3ccddc1cc1778ccff1207e3acfa03f6ae51d7388263aea994713631"
