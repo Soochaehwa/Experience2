@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "640a37ac0fa258eddcc43ac2433a71b99005c0e393a035cd43f3fe6a2aca2069"
+hash = "300087df111ef80c096cc1b3c96c5d25e9df0fe7548a3fea8f0dca299ba0d5fa"
 metafile = true
 
 [[files]]
@@ -279,9 +279,8 @@ hash = "c9fdbed1b17e1770f120fab89eaac4b769a3656b562c109890c18cc710991e44"
 metafile = true
 
 [[files]]
-file = "mods/sodium-extra.toml"
-hash = "f19b31e50e846038b35f237b81d84544020d5cc71db86b65c15e3b4f60a23300"
-metafile = true
+file = "mods/sodium-extra-0.3.1.jar"
+hash = "0550362f2d97b12db0217905a4ce45a9784e063270b7b00c79fa5a79da675aaf"
 
 [[files]]
 file = "mods/starlight-fabric-1.0.0-RC2-1.16.x.jar"
