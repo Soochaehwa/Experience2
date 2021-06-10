@@ -186,8 +186,8 @@ hash = "a0791b5bf274483549ee0a96769f31dd4446410b9030ac7ec38f0586a3784180"
 metafile = true
 
 [[files]]
-file = "mods/indium-1.0.0.jar"
-hash = "08aca430f09af3368ce952beb1b73ae61c79034950522e0ef6dfa044d5875a3e"
+file = "mods/indium-1.0.0+1.16.5-a997c55.jar"
+hash = "ce1ea7cee33e9d6a2a0068114c7db38f71af9b750fbea1f12db90fb13413da2e"
 
 [[files]]
 file = "mods/item-model-fix.toml"
@@ -202,6 +202,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.toml"
 hash = "da1b3ee71d9ed1f17da4c85ca3da39af3e49fcc5bb032689613c4e00fc587a40"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "2d900464b3ed58efb3001fe22115cfd04b90a3c699d7c3f6f1895ff3565cb23b"
 metafile = true
 
 [[files]]
@@ -285,8 +290,8 @@ hash = "f19b31e50e846038b35f237b81d84544020d5cc71db86b65c15e3b4f60a23300"
 metafile = true
 
 [[files]]
-file = "mods/sodium-fabric-mc1.16.5-0.1.1+build.359.jar"
-hash = "34097ffccb49728d324d455e64ac5865387965889a29805f240982c1784a0272"
+file = "mods/sodium-fabric-mc1.16.5-0.2.0+build.387.jar"
+hash = "2f199ddf0136041e8be45da7d0d2bb5898895421d3752433737b60cad3c74321"
 
 [[files]]
 file = "mods/starlight-fabric-1.0.0-RC2-1.16.x.jar"
