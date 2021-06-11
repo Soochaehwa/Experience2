@@ -31,6 +31,11 @@ hash = "eeca9933cc35d7131251f042df455045b8197cd07dface28bdf3c1fe0c240b03"
 metafile = true
 
 [[files]]
+file = "mods/clear-skies.toml"
+hash = "f99dbdaa76164ab26734036d22f67237386796270496384a824b55f342bcb12a"
+metafile = true
+
+[[files]]
 file = "mods/cloth-api.toml"
 hash = "6f9c3f657c6e3ef033d0e778096004ba4554b0db609dc80338590b3970e8daa3"
 metafile = true
@@ -38,6 +43,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.toml"
 hash = "94b98ae68382da3bf4f3bd3115319c75bc8e078ce856cee4040d2710b97ddead"
+metafile = true
+
+[[files]]
+file = "mods/dimension-fix-some-forge-patches-ported.toml"
+hash = "5566ded4558621c4affd0d93e70fba94fef6e9ce4018f577f5082addb25826e4"
 metafile = true
 
 [[files]]
@@ -142,4 +152,14 @@ metafile = true
 [[files]]
 file = "mods/transliterationlib.toml"
 hash = "4f825c4efffa10a402b17b04fb6c010a072202ab758b20611132ed7cbbd4de7f"
+metafile = true
+
+[[files]]
+file = "mods/wthit.toml"
+hash = "c7ae420429bb8f41eb9f49b74a2505e5c3868e1eb3874f3df764d8a966b12ff4"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.toml"
+hash = "218b2b38862091f96e1db0ee7580c6f9cd5e8f008f88e4fe00016c6dea1065b3"
 metafile = true
