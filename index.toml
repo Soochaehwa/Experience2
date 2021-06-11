@@ -143,8 +143,3 @@ metafile = true
 file = "mods/transliterationlib.toml"
 hash = "4f825c4efffa10a402b17b04fb6c010a072202ab758b20611132ed7cbbd4de7f"
 metafile = true
-
-[[files]]
-file = "mods/voxelmap.toml"
-hash = "0a72335458f2e082d08eb39d5d417e5f5584adbaa9e0bd3955135d38d88fa8ed"
-metafile = true
