@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/adaptive-brightness.toml"
-hash = "7cd110b86a85eab3a7231b9bd6e662059f16937fc11fa2d3670b204b744d66b5"
-metafile = true
-
-[[files]]
 file = "mods/advancementinfo.toml"
 hash = "ae1293e4489624f8daccf97dc955fe83289889cebb5d8d74d9932218fb08c249"
 metafile = true
