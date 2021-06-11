@@ -1,11 +1,11 @@
 name = "Experience 2"
 author = "Soochaehwa"
-version = "1.0.0"
+version = "2.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6ebcd55d65bfc4b476a74cf8b19ccadee7cd6b4aeebf7871d9088b9132c2886f"
+hash = "44d53fd63c6e4aad3c70f6c0ecc53cf6d2c18dcaa06cf5080054e03c18d073f2"
 
 [versions]
 fabric = "0.11.3"
