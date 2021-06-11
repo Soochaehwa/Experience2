@@ -21,6 +21,16 @@ hash = "61c87ffced08086b90cfa32fb8258966a4969827a108ff343aba78739b33249a"
 metafile = true
 
 [[files]]
+file = "mods/augmented-autojump.toml"
+hash = "aa73254aa767c453540d5fa36526d81d83794e00d6863121866568ba08b4f7c1"
+metafile = true
+
+[[files]]
+file = "mods/autofish.toml"
+hash = "c9722945000adc56a192a65d86be63cc93295d6446618a31b8f724224d9f163c"
+metafile = true
+
+[[files]]
 file = "mods/better-third-person.toml"
 hash = "b9cd1c19d70cafe780d5abc3add4fe47f198e304fcd7b6a0e0e07639cdbc6285"
 metafile = true
@@ -68,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-disable-custom-worlds-advice.toml"
 hash = "2626c44c701d6f3fc1d604c0da3959b2659e61883ea3746493a525353d2fe2c9"
+metafile = true
+
+[[files]]
+file = "mods/fastchest.toml"
+hash = "3bdbc76a5d70f75f76065b1e6148285bde757e7b2b3daf11b635028825bb9e89"
 metafile = true
 
 [[files]]
@@ -128,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.toml"
 hash = "a35bf62f97d38e03d6e348e6dfc1c83fee88e9abc385acc9feb2eb90b9e18bed"
+metafile = true
+
+[[files]]
+file = "mods/reload-audio-driver-fabric.toml"
+hash = "ea6bb0e9d2941780758eb4b06145438cf71410777ae9a953d8fd7afeec771487"
 metafile = true
 
 [[files]]

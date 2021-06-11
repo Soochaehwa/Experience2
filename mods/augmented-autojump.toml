@@ -1,0 +1,14 @@
+name = "Augmented Autojump"
+filename = "augmentedautojump-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3325/967/augmentedautojump-1.1.0.jar"
+hash-format = "murmur2"
+hash = "948341207"
+
+[update]
+[update.curseforge]
+file-id = 3325967
+project-id = 485213
+release-channel = "beta"
