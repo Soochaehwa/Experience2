@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/adaptive-brightness.toml"
+hash = "7cd110b86a85eab3a7231b9bd6e662059f16937fc11fa2d3670b204b744d66b5"
+metafile = true
+
+[[files]]
 file = "mods/advancementinfo.toml"
 hash = "ae1293e4489624f8daccf97dc955fe83289889cebb5d8d74d9932218fb08c249"
 metafile = true
@@ -16,6 +21,11 @@ hash = "4565525cb7a78f7709e13dc2795f020c87b54dc4beadffc13939ba7cf1b31bf1"
 metafile = true
 
 [[files]]
+file = "mods/architectury-fabric.toml"
+hash = "61c87ffced08086b90cfa32fb8258966a4969827a108ff343aba78739b33249a"
+metafile = true
+
+[[files]]
 file = "mods/better-third-person.toml"
 hash = "b9cd1c19d70cafe780d5abc3add4fe47f198e304fcd7b6a0e0e07639cdbc6285"
 metafile = true
@@ -26,6 +36,21 @@ hash = "a0aa03a3f166f1a53a81660c1a93235d6d9147e9fc9f45a11aa24a9f855a5a91"
 metafile = true
 
 [[files]]
+file = "mods/cloth-api.toml"
+hash = "6f9c3f657c6e3ef033d0e778096004ba4554b0db609dc80338590b3970e8daa3"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "94b98ae68382da3bf4f3bd3115319c75bc8e078ce856cee4040d2710b97ddead"
+metafile = true
+
+[[files]]
+file = "mods/durabilityviewer.toml"
+hash = "1eb781828a10f8be84a64e42ff88628b27facbc1c9c477e80a417dbdef21d39f"
+metafile = true
+
+[[files]]
 file = "mods/easiervillagertrading.toml"
 hash = "5440e9f990246bdb0df6294ae00012793ea3a9bd91817bc8ee2621df6c6ebe54"
 metafile = true
@@ -33,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.toml"
 hash = "0849fac6eefbbfaad900a0040babeb8f275556f22bb5958e77018bd77c477e0d"
+metafile = true
+
+[[files]]
+file = "mods/fabric-disable-custom-worlds-advice.toml"
+hash = "2626c44c701d6f3fc1d604c0da3959b2659e61883ea3746493a525353d2fe2c9"
 metafile = true
 
 [[files]]
@@ -88,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.toml"
 hash = "b900dbeda370c9e0abef318f29462e6582d744dd1d269b48b581e5ce4b775c98"
+metafile = true
+
+[[files]]
+file = "mods/slight-gui-modifications.toml"
+hash = "5f5332fb8e4df2aff542b43dbdced8675cc50d3ac0c70fac1692a43e060de29e"
 metafile = true
 
 [[files]]
