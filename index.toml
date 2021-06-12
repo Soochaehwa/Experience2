@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "250ab413d05960de41c8109554b9a7c0b3d90d71f0b4246c1f8f18994c670f90"
+
+[[files]]
+file = "config/yosbr/config/slightguimodifications/config.json5"
+hash = "458692e8413145819c25d116f4a92de3105437beee3853cd2cbdd9e9c5f17b4e"
+
+[[files]]
+file = "config/yosbr/config/slightguimodifications/cts.groovy"
+hash = "afcb5adb529b5cbb243c8c2388759798130c2d365fbcdc3a4bd76f9ad45d1a76"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "5ab43ac17783921eb022260e88fd2359697952bd9452566c7992190546c1d161"
+
+[[files]]
 file = "mods/advancementinfo.toml"
 hash = "ae1293e4489624f8daccf97dc955fe83289889cebb5d8d74d9932218fb08c249"
 metafile = true
@@ -37,7 +53,7 @@ metafile = true
 
 [[files]]
 file = "mods/canvas-renderer.toml"
-hash = "eeca9933cc35d7131251f042df455045b8197cd07dface28bdf3c1fe0c240b03"
+hash = "7073c4d7bcb1ee725231d12bb9ac3d8a670bc1887db277ba6a736c712f95c405"
 metafile = true
 
 [[files]]
@@ -72,7 +88,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "0849fac6eefbbfaad900a0040babeb8f275556f22bb5958e77018bd77c477e0d"
+hash = "c571c7d97ec362cea8a9d39dbf9c6fe1dc087003b9a43725a794084e24d67370"
 metafile = true
 
 [[files]]
@@ -122,7 +138,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "e169363f79b6a9269704690470b12210bce59fda4b9dd07f46cbddbccacb4049"
+hash = "7eec8fb33cc59b0518a4acfd6a19e01bd50fdedf3ebe20b1c7e45d19274160f1"
 metafile = true
 
 [[files]]
@@ -152,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.toml"
-hash = "b900dbeda370c9e0abef318f29462e6582d744dd1d269b48b581e5ce4b775c98"
+hash = "453b3d5659fbf79a872fa9c6e581a0c8074b7844ee23bbc2ab99cc9fce3e4c0c"
 metafile = true
 
 [[files]]
@@ -176,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "c7ae420429bb8f41eb9f49b74a2505e5c3868e1eb3874f3df764d8a966b12ff4"
+hash = "6b69e0ffba8b0e1683f124438f83d304a3d48135d2f250881406b4ea4ddcff74"
 metafile = true
 
 [[files]]
