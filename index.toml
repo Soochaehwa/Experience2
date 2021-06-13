@@ -1,8 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/durabilityviewer.json"
+hash = "77ac435f413601255dd4be65b5ea02dadebfd93843a02d6b6eac984ff07d7d3a"
+
+[[files]]
 file = "config/yosbr/config/modmenu.json"
 hash = "250ab413d05960de41c8109554b9a7c0b3d90d71f0b4246c1f8f18994c670f90"
+
+[[files]]
+file = "config/yosbr/config/mousewheelie.hjson"
+hash = "87a4441865527fe6517b7835c86d62ad7cbfbddf0b06c33956d0b3bfdc6876ad"
 
 [[files]]
 file = "config/yosbr/config/slightguimodifications/config.json5"
@@ -83,12 +91,12 @@ metafile = true
 
 [[files]]
 file = "mods/easiervillagertrading.toml"
-hash = "5440e9f990246bdb0df6294ae00012793ea3a9bd91817bc8ee2621df6c6ebe54"
+hash = "0f8961e0d5adce5d953124722230b6c5290505323a9e2c3bf8780ac90ce36f5c"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "c571c7d97ec362cea8a9d39dbf9c6fe1dc087003b9a43725a794084e24d67370"
+hash = "2a9b8f8977bcb3c37e06a5fa2a0ebd46a54823fe568247c684141e1c78eab3bc"
 metafile = true
 
 [[files]]
@@ -148,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/multiconnect.toml"
-hash = "9c9d36441a911b2b860dc8c9e2d7281c4847b418b4aa274c0f82e40725e405c9"
+hash = "982302c5db73dffa68b0475751096ee9ca945aed907ce048de29790ca9ea1a68"
 metafile = true
 
 [[files]]
@@ -164,6 +172,11 @@ metafile = true
 [[files]]
 file = "mods/reload-audio-driver-fabric.toml"
 hash = "ea6bb0e9d2941780758eb4b06145438cf71410777ae9a953d8fd7afeec771487"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "d5d419e6741c2830e641212171abe4a66f4cffce0778332f698dde48cd0b5ca3"
 metafile = true
 
 [[files]]
