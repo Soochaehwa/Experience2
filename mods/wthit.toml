@@ -1,14 +1,14 @@
 name = "WTHIT"
-filename = "wthit-3.5.2-fabric.jar"
+filename = "wthit-3.5.3-fabric.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3348/814/wthit-3.5.2-fabric.jar"
+url = "https://edge.forgecdn.net/files/3350/383/wthit-3.5.3-fabric.jar"
 hash-format = "murmur2"
-hash = "4154885511"
+hash = "3828655911"
 
 [update]
 [update.curseforge]
-file-id = 3348814
+file-id = 3350383
 project-id = 440979
 release-channel = "beta"

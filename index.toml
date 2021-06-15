@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "61c87ffced08086b90cfa32fb8258966a4969827a108ff343aba78739b33249a"
+hash = "32038f20fa0d08ab1aca7fc508b2686748ecea7328af2a780b3663220e046ee2"
 metafile = true
 
 [[files]]
@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/canvas-renderer.toml"
-hash = "7073c4d7bcb1ee725231d12bb9ac3d8a670bc1887db277ba6a736c712f95c405"
+hash = "5f9c9229c8a87e69d165bff1c17fbf712d3a4fa96f908caa5e80f7be2c762110"
 metafile = true
 
 [[files]]
@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/durabilityviewer.toml"
-hash = "1eb781828a10f8be84a64e42ff88628b27facbc1c9c477e80a417dbdef21d39f"
+hash = "fa401651592bf3f10b1c109815d3704a971f5f77a95633bcc56873207946ac5a"
 metafile = true
 
 [[files]]
@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "2a9b8f8977bcb3c37e06a5fa2a0ebd46a54823fe568247c684141e1c78eab3bc"
+hash = "4dae662efc99acc9dc4b05b456a347c3200d5880883dfc06487155528e28ff6b"
 metafile = true
 
 [[files]]
@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraftcapes-mod.toml"
-hash = "03b544e8516fbadb51c49b150514ef87bcc81833289fc1808eb4ce9dfa173fed"
+hash = "fa6c03eefca9535a5ceb4e7fca226f3d74714fbbea10dc37cd8d04023adf4ed9"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/multiconnect.toml"
-hash = "982302c5db73dffa68b0475751096ee9ca945aed907ce048de29790ca9ea1a68"
+hash = "958cbe58193258a3e049efdb35c2c296383a6e5f24803b9983da3b5b8cafe0d1"
 metafile = true
 
 [[files]]
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "d5d419e6741c2830e641212171abe4a66f4cffce0778332f698dde48cd0b5ca3"
+hash = "2751c4a383444e0c74e866b158878c657235b2eea6ed9d920e94b3a09121e552"
 metafile = true
 
 [[files]]
@@ -195,7 +195,7 @@ hash = "76f7ac2b670ae241d9d8c5c99809e8b2b2f9611b633f074922da935250ae5cd1"
 
 [[files]]
 file = "mods/tooltipfix.toml"
-hash = "fde37d4760ea8b9bbf8796efac55e8f8086ab3d7663f799b72161482bd22f951"
+hash = "d2911055892ef557996548be24f4899479234fcf83af05e63fbed0b1e6678bdb"
 metafile = true
 
 [[files]]
@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "6b69e0ffba8b0e1683f124438f83d304a3d48135d2f250881406b4ea4ddcff74"
+hash = "41faf77f9d60fec6cd9aa9ba48553d1ab48aa34ad9934a3e42645fbb4c76d5bd"
 metafile = true
 
 [[files]]

@@ -3,12 +3,12 @@ filename = "MinecraftCapes Fabric 1.17-v10.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3344/316/MinecraftCapes Fabric 1.17-v10.jar"
+url = "https://edge.forgecdn.net/files/3350/516/MinecraftCapes Fabric 1.17-v10.jar"
 hash-format = "murmur2"
-hash = "2156269020"
+hash = "1884606024"
 
 [update]
 [update.curseforge]
-file-id = 3344316
+file-id = 3350516
 project-id = 359836
 release-channel = "beta"

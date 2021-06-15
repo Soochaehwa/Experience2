@@ -1,14 +1,14 @@
 name = "multiconnect"
-filename = "multiconnect-1.4.3.jar"
+filename = "multiconnect-1.4.4.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3349/32/multiconnect-1.4.3.jar"
+url = "https://edge.forgecdn.net/files/3350/176/multiconnect-1.4.4.jar"
 hash-format = "murmur2"
-hash = "3107088666"
+hash = "413415333"
 
 [update]
 [update.curseforge]
-file-id = 3349032
+file-id = 3350176
 project-id = 336018
 release-channel = "beta"
