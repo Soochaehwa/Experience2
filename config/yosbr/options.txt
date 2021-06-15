@@ -7,3 +7,5 @@ lang:ko_kr
 tutorialStep:none
 skipMultiplayerWarning:true
 joinedFirstServer:true
+resourcePacks:["vanilla","Fabric Mods","file/korean_hd_font.zip"]
+guiScale:2

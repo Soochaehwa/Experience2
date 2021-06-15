@@ -212,3 +212,7 @@ metafile = true
 file = "mods/yosbr.toml"
 hash = "218b2b38862091f96e1db0ee7580c6f9cd5e8f008f88e4fe00016c6dea1065b3"
 metafile = true
+
+[[files]]
+file = "resourcepacks/korean_hd_font.zip"
+hash = "78c7157556619cd80172a6ad495bf2130ef4ac325e59e806f0ace8a676e8656c"
