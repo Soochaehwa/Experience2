@@ -73,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "2d691c28c616f506f5e869955cac881ad91ecdfdb87c1a05dc599e0998d098cd"
+hash = "b1428fc43f512d21d5af4bf469ade1b74a2e13773c433531fe70e6638a4e0738"
 metafile = true
 
 [[files]]
@@ -82,13 +82,8 @@ hash = "b5af281e161d6eea50ede0d4c54fa38467d1b1beb96066056812c7f227436058"
 metafile = true
 
 [[files]]
-file = "mods/better-sodium-video-settings-button.toml"
-hash = "02bd1409657d7e2e342fe5ede078c0d79b9648bc90ed7139cf0d1043963df930"
-metafile = true
-
-[[files]]
 file = "mods/better-third-person.toml"
-hash = "00bf990aa97d7cae9dfa03b7f6e026334882caa7032625df0bc4ecd7c8c03f79"
+hash = "d813c6f165d4b2afcc8d52932cb734c6445e10556b2916bef3bfd87579f431dd"
 metafile = true
 
 [[files]]
@@ -98,7 +93,7 @@ metafile = true
 
 [[files]]
 file = "mods/boosted-brightness.toml"
-hash = "061f00d9a216519283eb7b3e8d58b5bee16830d6038457648d63f9e10bea2666"
+hash = "df97c25c0a1881a83bd2bbca4461c1e7078f3eb9c282feda4bb109bedbe63a75"
 metafile = true
 
 [[files]]
@@ -162,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "300087df111ef80c096cc1b3c96c5d25e9df0fe7548a3fea8f0dca299ba0d5fa"
+hash = "240f97ff2d8c1d92534572e36195696417a0e3252550f6017683169b59ff73b5"
 metafile = true
 
 [[files]]
@@ -183,10 +178,6 @@ metafile = true
 [[files]]
 file = "mods/indium-1.0.0+1.16.5-a997c55.jar"
 hash = "ce1ea7cee33e9d6a2a0068114c7db38f71af9b750fbea1f12db90fb13413da2e"
-
-[[files]]
-file = "mods/iris-mc1.16.5-1.0.0-rc1.jar"
-hash = "5d6466d7eb7560472f0169297fa444efef90f628cb1d8ecd8fad495e2362beb3"
 
 [[files]]
 file = "mods/item-model-fix.toml"
@@ -215,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "c2dc58ad1ce065d73a250283bf1849cf07c1e211892ccbb4d943b7c59c79b22c"
+hash = "4a61802d1986d1cbb598bb6fd8a01e1c5a8b784da608d3d47690d06e812746e8"
 metafile = true
 
 [[files]]
@@ -279,8 +270,14 @@ hash = "c9fdbed1b17e1770f120fab89eaac4b769a3656b562c109890c18cc710991e44"
 metafile = true
 
 [[files]]
-file = "mods/sodium-extra-0.3.1.jar"
-hash = "0550362f2d97b12db0217905a4ce45a9784e063270b7b00c79fa5a79da675aaf"
+file = "mods/sodium-extra.toml"
+hash = "5bff3f96f5f6fc259a38e72f7c89ced3538c67422051f4afd88fcbbc1922d4ff"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "270462bd94b64dd1af6a58105f1658cf586dfd891ea6c199a794f9ace148d51f"
+metafile = true
 
 [[files]]
 file = "mods/starlight-fabric-1.0.0-RC2-1.16.x.jar"
@@ -303,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "dc18c1907dfb23eb7cdfeeccd36eca793fbb21033b575be8fe7e366b49b43708"
+hash = "a0a9f0ead4343dfd97bbfcb275f6e2aac9de3878241de43905f1325e45ced595"
 metafile = true
 
 [[files]]
