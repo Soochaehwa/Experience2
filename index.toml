@@ -22,7 +22,12 @@ hash = "afcb5adb529b5cbb243c8c2388759798130c2d365fbcdc3a4bd76f9ad45d1a76"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "5ab43ac17783921eb022260e88fd2359697952bd9452566c7992190546c1d161"
+hash = "c7b00c4cfd10589ab617d4c8ff0c608983ea2d91b3403257f7f34ff42bc7cf9e"
+
+[[files]]
+file = "mods/adaptive-brightness.toml"
+hash = "aaa8cc42c62a3719ae822c3c1d544f85b6f98f8714832bd392c023fe9e33efe8"
+metafile = true
 
 [[files]]
 file = "mods/advancementinfo.toml"
@@ -35,13 +40,18 @@ hash = "9a1ef3ae5af35df9fd76be1a5c34606cf244dd381c5aa11d29777a81965827cf"
 metafile = true
 
 [[files]]
+file = "mods/ambient-environment.toml"
+hash = "21dc5d0915119d60f18392aed168e7459b24cefed9736e30e1919824102262c1"
+metafile = true
+
+[[files]]
 file = "mods/antighost.toml"
 hash = "4565525cb7a78f7709e13dc2795f020c87b54dc4beadffc13939ba7cf1b31bf1"
 metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "32038f20fa0d08ab1aca7fc508b2686748ecea7328af2a780b3663220e046ee2"
+hash = "75db4a4f9f92d71a6144c9153b3926364d942ad5f9211d08442ea8e0147c9273"
 metafile = true
 
 [[files]]
@@ -60,8 +70,13 @@ hash = "b9cd1c19d70cafe780d5abc3add4fe47f198e304fcd7b6a0e0e07639cdbc6285"
 metafile = true
 
 [[files]]
+file = "mods/boosted-brightness.toml"
+hash = "ac19a6b75f34cc5279778bfed47a2d464233bb9dda59dbae5e8b729d1418f065"
+metafile = true
+
+[[files]]
 file = "mods/canvas-renderer.toml"
-hash = "5f9c9229c8a87e69d165bff1c17fbf712d3a4fa96f908caa5e80f7be2c762110"
+hash = "c5e3d915cf53023be82d31e1df84d05fec2e46fc953bff2532b3c2e093407fc3"
 metafile = true
 
 [[files]]
@@ -96,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "4dae662efc99acc9dc4b05b456a347c3200d5880883dfc06487155528e28ff6b"
+hash = "0d1a8a3403a9029453108a071f7db0593d18afdc73e65ce77b6a1cc9bf8d25d5"
 metafile = true
 
 [[files]]
@@ -131,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "090d1c67dc4168150f946149beaff9e91240a0d55cd5d4ab9eb42039643d908d"
+hash = "2269a0e9554b766a11b0567e824a62bb31660cabed3636ec67520d41cf88722a"
 metafile = true
 
 [[files]]
@@ -176,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "2751c4a383444e0c74e866b158878c657235b2eea6ed9d920e94b3a09121e552"
+hash = "fc7eb25a81c148c39d5cc081cf03e5402301c75c6cf04f70a1b3a9c6cd819b57"
 metafile = true
 
 [[files]]
@@ -195,7 +210,7 @@ hash = "76f7ac2b670ae241d9d8c5c99809e8b2b2f9611b633f074922da935250ae5cd1"
 
 [[files]]
 file = "mods/tooltipfix.toml"
-hash = "d2911055892ef557996548be24f4899479234fcf83af05e63fbed0b1e6678bdb"
+hash = "ae09863a478e3b33722307e350c9453ca3165e2941b7269867e115e0e5ef7786"
 metafile = true
 
 [[files]]
@@ -205,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "41faf77f9d60fec6cd9aa9ba48553d1ab48aa34ad9934a3e42645fbb4c76d5bd"
+hash = "be7b65da4198580ed2702c4bafbf2dac36e90b051bec35a1e0e5f9bcb0765784"
 metafile = true
 
 [[files]]
@@ -215,4 +230,4 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/korean_hd_font.zip"
-hash = "78c7157556619cd80172a6ad495bf2130ef4ac325e59e806f0ace8a676e8656c"
+hash = "fb8aef9c8e554ba72f2369bd9400b3f8119853ffe41a9df1492a0a35ad812ad6"
