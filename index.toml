@@ -1,6 +1,90 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/ViaFabricPlus/settings.json"
+hash = "9b678a503c964c840e574f47c50bfa5fc7566ec550d2d0dccb139a67f6d6243e"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Client.json"
+hash = "ef3c51abbd85dc58e172b56c79f695e05a0158aed8672ecfad9d200ae8fb74dd"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Common.json"
+hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
+hash = "2250f7fe1ab5b037e776322a9d905a5d73f994ec81a51a7c793b6b5dc151f863"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-ServerPreferences.json"
+hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/README.md"
+hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
+
+[[files]]
+file = "config/yosbr/config/betterf3.json"
+hash = "a8a76dc56011fcbcee94eb2dff73d460959e30342e64227171f6cbdcd28c5cbd"
+
+[[files]]
+file = "config/yosbr/config/caxton.json"
+hash = "2b402486262a7b49def6d567eb978dac3736f099d5fe0bd77fa459e0fb6c422b"
+
+[[files]]
+file = "config/yosbr/config/exordium.json"
+hash = "4e7e3ab187a64358464b5f1a053f1dbeb53b43b4038bb9c09d1be720cedbb949"
+
+[[files]]
+file = "config/yosbr/config/fastquit-config.txt"
+hash = "629472941a0d7e684eb6846e16813db792eb25e41fab5fc1d46a1697e1ada07f"
+
+[[files]]
+file = "config/yosbr/config/inventoryhud.json"
+hash = "48e572f881116a731f5a9a57047b75d3c5a104e6daf28b0cce8090dbb438f286"
+
+[[files]]
+file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "b7aa20590fb034f5d66648194cd44064cf5c9d9ff6a0a542286928001d9c731d"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "ed16985f49499d57f19085c8839a761b0720c10521fc4b571c7275728e573f4a"
+
+[[files]]
+file = "config/yosbr/config/waila/blacklist.json"
+hash = "d7bf8d5431d9eec519314ddabdcff8e0b186ddfb1d025155dd6d1bca95128102"
+
+[[files]]
+file = "config/yosbr/config/waila/waila.json"
+hash = "9e995456e2567a5a594aecdbbbd43056e9ecebdbb0fed9cff0ad1faed08b35ba"
+
+[[files]]
+file = "config/yosbr/config/waila/waila_plugins.json"
+hash = "b8ef1aa4330194fe7d30d3603eca035d1ab045a76fb750783d956e8e512e777e"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap.txt"
+hash = "fa8c3c793d39d6933e32bc49abfce1eb664be6d360d49bf1051eebdb93654ce0"
+
+[[files]]
+file = "config/yosbr/config/xaeropatreon.txt"
+hash = "e6a503d95dad7e712790bd7b77540880f160d54e0b88fa4f8d7e5f4389a41c6a"
+
+[[files]]
+file = "config/yosbr/config/xaeroworldmap.txt"
+hash = "be39b7a4816eb07fba4bad33c758cb1b35b7d9c791c25a651f4c42e64739e529"
+
+[[files]]
+file = "config/yosbr/config/zoomify.json"
+hash = "20925226d0c3221908d5e17f954089caf9c019dd5ace4276b742fc9aa5c5e312"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "9711af5572b3837f691e926c3404ab435b3bc7ae60a2eb4eead445064de629e9"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "2905b7be42ac9c7c52eb1a5511ae67ebbff435f0630e93ace70b02ef6097d3d9"
 metafile = true
