@@ -29,6 +29,10 @@ file = "config/yosbr/config/betterf3.json"
 hash = "a8a76dc56011fcbcee94eb2dff73d460959e30342e64227171f6cbdcd28c5cbd"
 
 [[files]]
+file = "config/yosbr/config/blur.json"
+hash = "df3619634489b7f5456e943e42746164ac536157af2779866f110a2360aba864"
+
+[[files]]
 file = "config/yosbr/config/caxton.json"
 hash = "2b402486262a7b49def6d567eb978dac3736f099d5fe0bd77fa459e0fb6c422b"
 
@@ -82,7 +86,7 @@ hash = "20925226d0c3221908d5e17f954089caf9c019dd5ace4276b742fc9aa5c5e312"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "9711af5572b3837f691e926c3404ab435b3bc7ae60a2eb4eead445064de629e9"
+hash = "74b5455decc43766ac3e964790c07fe9f6b31b0128e1d75b67860d91f87ba54b"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -448,3 +452,7 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "64cc3a69ccf183d56da3c42383918b90da3825877cbb13f712bc671487903120"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Experience2 한글 폰트.zip"
+hash = "409c7b0dabd9afad88986e7f74f4e6de213cdb7fd2cab99150cdc5fa239018f0"
