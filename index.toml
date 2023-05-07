@@ -46,7 +46,7 @@ hash = "48e572f881116a731f5a9a57047b75d3c5a104e6daf28b0cce8090dbb438f286"
 
 [[files]]
 file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "b7aa20590fb034f5d66648194cd44064cf5c9d9ff6a0a542286928001d9c731d"
+hash = "966f95798112b14a21ee3974daa5a506ebed084f232211f850eae495c45d3371"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -97,6 +97,11 @@ metafile = true
 [[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "b78469bae5710c1b0c8e5cb981976f3b69721977934df22cefc3fa4b9ecf83fd"
+metafile = true
+
+[[files]]
+file = "mods/amecs.pw.toml"
+hash = "60ab436fb292c5f4773d583622973b3c61f0abbb43c7f009b4016e028ffeb55b"
 metafile = true
 
 [[files]]
