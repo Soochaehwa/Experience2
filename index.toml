@@ -37,6 +37,10 @@ file = "config/yosbr/config/caxton.json"
 hash = "2b402486262a7b49def6d567eb978dac3736f099d5fe0bd77fa459e0fb6c422b"
 
 [[files]]
+file = "config/yosbr/config/chatpatches.json"
+hash = "b4df02a6b3418ea4edb06151871277be1bd673cca9697d8c0a1996bb6359d560"
+
+[[files]]
 file = "config/yosbr/config/exordium.json"
 hash = "4e7e3ab187a64358464b5f1a053f1dbeb53b43b4038bb9c09d1be720cedbb949"
 
