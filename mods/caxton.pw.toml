@@ -1,0 +1,13 @@
+name = "Caxton"
+filename = "caxton-0.4.2+1.19.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/k8iIgzXE/versions/2qpGfZ71/caxton-0.4.2%2B1.19.4.jar"
+hash-format = "sha1"
+hash = "4603d4431e564cc06e6d0b6eaeeb691ba20b6a87"
+
+[update]
+[update.modrinth]
+mod-id = "k8iIgzXE"
+version = "2qpGfZ71"
