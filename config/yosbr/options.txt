@@ -15,4 +15,5 @@ key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 resourcePacks:["vanilla","fabric","file/Experience2 한글 폰트.zip","continuity:default","continuity:glass_pane_culling_fix"]
+incompatibleResourcePacks:["continuity:glass_pane_culling_fix","continuity:default"]
 onboardAccessibility:false

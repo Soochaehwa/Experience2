@@ -10,19 +10,7 @@ hash = "ef3c51abbd85dc58e172b56c79f695e05a0158aed8672ecfad9d200ae8fb74dd"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Common.json"
-hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
-
-[[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
-hash = "2250f7fe1ab5b037e776322a9d905a5d73f994ec81a51a7c793b6b5dc151f863"
-
-[[files]]
-file = "config/yosbr/config/NoChatReports/NCR-ServerPreferences.json"
-hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
-
-[[files]]
-file = "config/yosbr/config/NoChatReports/README.md"
-hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
+hash = "77777d6d4901caa3b49847bde37722ee3cf81d745cfc2e8ffdd2aca6211418e8"
 
 [[files]]
 file = "config/yosbr/config/betterf3.json"
@@ -94,7 +82,7 @@ hash = "20925226d0c3221908d5e17f954089caf9c019dd5ace4276b742fc9aa5c5e312"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "9e83ffa08c6bdbb2046bd57761e1a1404096cfbd6df1a1638a6b11d55a7cfb46"
+hash = "df68fc9626740fcecc5881def9d05490b6206ff747c322ec1a3a79a78d8b0cbf"
 
 [[files]]
 file = "icon.png"
