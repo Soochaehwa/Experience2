@@ -453,5 +453,9 @@ hash = "64cc3a69ccf183d56da3c42383918b90da3825877cbb13f712bc671487903120"
 metafile = true
 
 [[files]]
+file = "resourcepacks/Experience2 한글 폰트(쉐이더).zip"
+hash = "9642f037b94464c579a395d73e70071a10ab8bebd6c31c26e4e998f244eb46f0"
+
+[[files]]
 file = "resourcepacks/Experience2 한글 폰트.zip"
 hash = "409c7b0dabd9afad88986e7f74f4e6de213cdb7fd2cab99150cdc5fa239018f0"
