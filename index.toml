@@ -41,6 +41,10 @@ file = "config/yosbr/config/chatpatches.json"
 hash = "b4df02a6b3418ea4edb06151871277be1bd673cca9697d8c0a1996bb6359d560"
 
 [[files]]
+file = "config/yosbr/config/dynamicfps.toml"
+hash = "72ef54a2629484b36f3400712ccf3f9ad4f78acbc13af22b69b6dbcc7aa2e367"
+
+[[files]]
 file = "config/yosbr/config/exordium.json"
 hash = "4e7e3ab187a64358464b5f1a053f1dbeb53b43b4038bb9c09d1be720cedbb949"
 
@@ -90,7 +94,7 @@ hash = "20925226d0c3221908d5e17f954089caf9c019dd5ace4276b742fc9aa5c5e312"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "74b5455decc43766ac3e964790c07fe9f6b31b0128e1d75b67860d91f87ba54b"
+hash = "9e83ffa08c6bdbb2046bd57761e1a1404096cfbd6df1a1638a6b11d55a7cfb46"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"

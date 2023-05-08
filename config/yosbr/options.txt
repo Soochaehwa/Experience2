@@ -4,6 +4,7 @@ lang:ko_kr
 tutorialStep:none
 skipMultiplayerWarning:true
 joinedFirstServer:true
+operatorItemsTab:true
 guiScale:3
 simulationDistance:8
 soundCategory_master:0.3
@@ -13,5 +14,5 @@ key_zoomify.key.zoom.secondary:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
-resourcePacks:["vanilla","fabric","file/Experience2 한글 폰트.zip"]
+resourcePacks:["vanilla","fabric","file/Experience2 한글 폰트.zip","continuity:default","continuity:glass_pane_culling_fix"]
 onboardAccessibility:false
