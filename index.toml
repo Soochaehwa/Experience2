@@ -74,7 +74,7 @@ hash = "e6a503d95dad7e712790bd7b77540880f160d54e0b88fa4f8d7e5f4389a41c6a"
 
 [[files]]
 file = "config/yosbr/config/xaeroworldmap.txt"
-hash = "be39b7a4816eb07fba4bad33c758cb1b35b7d9c791c25a651f4c42e64739e529"
+hash = "d62df48ffe729276f3d233680837c8cab45fa4b9e0aef0b60f5986c7f2a64712"
 
 [[files]]
 file = "config/yosbr/config/zoomify.json"
