@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/caxton.pw.toml"
-hash = "01ccfa5510d4f6564083398f87eaaf2e4d5f3e63961cef50b8b3168c5a7113cc"
+hash = "bf5235c88b6ba96c3dcca332fcadbd661057de3bf4ec84864cac52c68d4483a1"
 metafile = true
 
 [[files]]
@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "853c3c3509313aecaa5db6c01f6a94419ec0128ec7630b7bf8caf46e80dec67a"
+hash = "6c6e0bcb90802217634be01c864499b11b6061295bfe3731fe42d7994d3fb063"
 metafile = true
 
 [[files]]
@@ -420,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "e8b446dbda0091e0e5c7625a04ebf06ad9757ca67bf886ed919c3df2ef052f52"
+hash = "d49a826dc299700719c662847b3e8ef9a1c4459dacecdfff0d5b274ab51131c0"
 metafile = true
 
 [[files]]
